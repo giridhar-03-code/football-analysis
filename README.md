@@ -3,7 +3,7 @@
 ## Overview
 
 The Football Performance Analytics Dashboard is a data-driven application developed using Python and Streamlit to analyze and visualize football player performance. The project aims to help coaches, analysts, and football enthusiasts gain valuable insights from player statistics through interactive dashboards and machine learning-based predictions. By transforming raw football data into meaningful visualizations and performance indicators, the application supports data-driven decision-making in football analysis.
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/1d6f4215-8d7d-4b67-beec-b46d89d0332e" />
+<img width="1400" height="400" alt="image" src="https://github.com/user-attachments/assets/1d6f4215-8d7d-4b67-beec-b46d89d0332e" />
 
 
 ## Features
