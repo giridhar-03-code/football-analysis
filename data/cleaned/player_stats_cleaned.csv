@@ -1,0 +1,589 @@
+fixture_id,team_id,team_name,team_logo,opponent_team_id,home_flag,player_id,player_name,player_photo,minutes,rating,position,date
+1208827,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,529,1,47270,Unai Simón,https://media.api-sports.io/football/players/47270.png,90.0,6.6,G,2025-05-25T19:00:00+00:00
+1208827,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,529,1,47275,Óscar de Marcos,https://media.api-sports.io/football/players/47275.png,89.0,6.9,D,2025-05-25T19:00:00+00:00
+1208827,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,529,1,47277,Unai Núñez,https://media.api-sports.io/football/players/47277.png,62.0,6.3,D,2025-05-25T19:00:00+00:00
+1208827,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,529,1,183849,Aitor Paredes,https://media.api-sports.io/football/players/183849.png,90.0,6.7,D,2025-05-25T19:00:00+00:00
+1208827,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,529,1,47273,Yuri Berchiche,https://media.api-sports.io/football/players/47273.png,90.0,5.9,D,2025-05-25T19:00:00+00:00
+1208827,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,529,1,47007,Iñigo Ruiz de Galarreta,https://media.api-sports.io/football/players/47007.png,62.0,6.9,M,2025-05-25T19:00:00+00:00
+1208827,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,529,1,383780,Mikel Jauregizar,https://media.api-sports.io/football/players/383780.png,90.0,6.5,M,2025-05-25T19:00:00+00:00
+1208827,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,529,1,30510,Álex Berenguer,https://media.api-sports.io/football/players/30510.png,90.0,6.3,M,2025-05-25T19:00:00+00:00
+1208827,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,529,1,332308,Unai Gómez,https://media.api-sports.io/football/players/332308.png,62.0,5.9,M,2025-05-25T19:00:00+00:00
+1208827,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,529,1,183799,Nico Williams,https://media.api-sports.io/football/players/183799.png,80.0,6.7,M,2025-05-25T19:00:00+00:00
+1208827,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,529,1,287680,Maroan Sannadi,https://media.api-sports.io/football/players/287680.png,90.0,6.9,F,2025-05-25T19:00:00+00:00
+1208827,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,529,1,47278,Daniel Vivian,https://media.api-sports.io/football/players/47278.png,28.0,6.2,D,2025-05-25T19:00:00+00:00
+1208827,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,529,1,128398,Oihan Sancet,https://media.api-sports.io/football/players/128398.png,28.0,6.5,M,2025-05-25T19:00:00+00:00
+1208827,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,529,1,182617,Beñat Prados,https://media.api-sports.io/football/players/182617.png,28.0,6.9,M,2025-05-25T19:00:00+00:00
+1208827,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,529,1,47294,Iñaki Williams,https://media.api-sports.io/football/players/47294.png,10.0,6.3,F,2025-05-25T19:00:00+00:00
+1208827,529,Barcelona,https://media.api-sports.io/football/teams/529.png,531,0,126,Iñaki Peña,https://media.api-sports.io/football/players/126.png,90.0,7.3,G,2025-05-25T19:00:00+00:00
+1208827,529,Barcelona,https://media.api-sports.io/football/teams/529.png,531,0,619,Eric García,https://media.api-sports.io/football/players/619.png,90.0,7.3,D,2025-05-25T19:00:00+00:00
+1208827,529,Barcelona,https://media.api-sports.io/football/teams/529.png,531,0,101814,Ronald Araújo,https://media.api-sports.io/football/players/101814.png,64.0,6.9,D,2025-05-25T19:00:00+00:00
+1208827,529,Barcelona,https://media.api-sports.io/football/teams/529.png,531,0,396623,Pau Cubarsí,https://media.api-sports.io/football/players/396623.png,90.0,7.0,D,2025-05-25T19:00:00+00:00
+1208827,529,Barcelona,https://media.api-sports.io/football/teams/529.png,531,0,161928,Alejandro Balde,https://media.api-sports.io/football/players/161928.png,81.0,7.0,D,2025-05-25T19:00:00+00:00
+1208827,529,Barcelona,https://media.api-sports.io/football/teams/529.png,531,0,296667,Gavi,https://media.api-sports.io/football/players/296667.png,90.0,7.6,M,2025-05-25T19:00:00+00:00
+1208827,529,Barcelona,https://media.api-sports.io/football/teams/529.png,531,0,133609,Pedri,https://media.api-sports.io/football/players/133609.png,81.0,7.3,M,2025-05-25T19:00:00+00:00
+1208827,529,Barcelona,https://media.api-sports.io/football/teams/529.png,531,0,386828,Lamine Yamal,https://media.api-sports.io/football/players/386828.png,90.0,7.0,M,2025-05-25T19:00:00+00:00
+1208827,529,Barcelona,https://media.api-sports.io/football/teams/529.png,531,0,340626,Fermín López,https://media.api-sports.io/football/players/340626.png,90.0,7.7,M,2025-05-25T19:00:00+00:00
+1208827,529,Barcelona,https://media.api-sports.io/football/teams/529.png,531,0,1496,Raphinha,https://media.api-sports.io/football/players/1496.png,64.0,7.2,M,2025-05-25T19:00:00+00:00
+1208827,529,Barcelona,https://media.api-sports.io/football/teams/529.png,531,0,521,Robert Lewandowski,https://media.api-sports.io/football/players/521.png,89.0,7.7,F,2025-05-25T19:00:00+00:00
+1208827,529,Barcelona,https://media.api-sports.io/football/teams/529.png,531,0,2282,Andreas Christensen,https://media.api-sports.io/football/players/2282.png,26.0,6.6,D,2025-05-25T19:00:00+00:00
+1208827,529,Barcelona,https://media.api-sports.io/football/teams/529.png,531,0,1323,Dani Olmo,https://media.api-sports.io/football/players/1323.png,26.0,7.3,M,2025-05-25T19:00:00+00:00
+1208827,529,Barcelona,https://media.api-sports.io/football/teams/529.png,531,0,181701,Gerard Martín,https://media.api-sports.io/football/players/181701.png,9.0,6.7,D,2025-05-25T19:00:00+00:00
+1208827,529,Barcelona,https://media.api-sports.io/football/teams/529.png,531,0,538,Frenkie de Jong,https://media.api-sports.io/football/players/538.png,9.0,6.7,M,2025-05-25T19:00:00+00:00
+1208835,533,Villarreal,https://media.api-sports.io/football/teams/533.png,536,1,122956,Diego Conde,https://media.api-sports.io/football/players/122956.png,90.0,7.0,G,2025-05-25T14:15:00+00:00
+1208835,533,Villarreal,https://media.api-sports.io/football/teams/533.png,536,1,435552,Pau Navarro,https://media.api-sports.io/football/players/435552.png,90.0,6.5,D,2025-05-25T14:15:00+00:00
+1208835,533,Villarreal,https://media.api-sports.io/football/teams/533.png,536,1,288112,Willy Kambwala,https://media.api-sports.io/football/players/288112.png,90.0,6.6,D,2025-05-25T14:15:00+00:00
+1208835,533,Villarreal,https://media.api-sports.io/football/teams/533.png,536,1,21997,Logan Costa,https://media.api-sports.io/football/players/21997.png,90.0,7.0,D,2025-05-25T14:15:00+00:00
+1208835,533,Villarreal,https://media.api-sports.io/football/teams/533.png,536,1,1702,Alfonso Pedraza,https://media.api-sports.io/football/players/1702.png,90.0,7.0,D,2025-05-25T14:15:00+00:00
+1208835,533,Villarreal,https://media.api-sports.io/football/teams/533.png,536,1,51016,Tajon Buchanan,https://media.api-sports.io/football/players/51016.png,75.0,7.0,M,2025-05-25T14:15:00+00:00
+1208835,533,Villarreal,https://media.api-sports.io/football/teams/533.png,536,1,20696,Pape Gueye,https://media.api-sports.io/football/players/20696.png,75.0,8.3,M,2025-05-25T14:15:00+00:00
+1208835,533,Villarreal,https://media.api-sports.io/football/teams/533.png,536,1,1461,Denis Suárez,https://media.api-sports.io/football/players/1461.png,81.0,7.5,M,2025-05-25T14:15:00+00:00
+1208835,533,Villarreal,https://media.api-sports.io/football/teams/533.png,536,1,184226,Yéremy Pino,https://media.api-sports.io/football/players/184226.png,56.0,7.9,M,2025-05-25T14:15:00+00:00
+1208835,533,Villarreal,https://media.api-sports.io/football/teams/533.png,536,1,182219,Alejandro Baena,https://media.api-sports.io/football/players/182219.png,57.0,7.5,F,2025-05-25T14:15:00+00:00
+1208835,533,Villarreal,https://media.api-sports.io/football/teams/533.png,536,1,343684,Thierno Barry,https://media.api-sports.io/football/players/343684.png,90.0,7.3,F,2025-05-25T14:15:00+00:00
+1208835,533,Villarreal,https://media.api-sports.io/football/teams/533.png,536,1,3246,Nicolas Pépé,https://media.api-sports.io/football/players/3246.png,34.0,6.6,F,2025-05-25T14:15:00+00:00
+1208835,533,Villarreal,https://media.api-sports.io/football/teams/533.png,536,1,1707,Gerard Moreno,https://media.api-sports.io/football/players/1707.png,33.0,6.9,F,2025-05-25T14:15:00+00:00
+1208835,533,Villarreal,https://media.api-sports.io/football/teams/533.png,536,1,928,Dani Parejo,https://media.api-sports.io/football/players/928.png,15.0,6.7,M,2025-05-25T14:15:00+00:00
+1208835,533,Villarreal,https://media.api-sports.io/football/teams/533.png,536,1,378284,Etta Eyong,https://media.api-sports.io/football/players/378284.png,15.0,6.7,F,2025-05-25T14:15:00+00:00
+1208835,533,Villarreal,https://media.api-sports.io/football/teams/533.png,536,1,391131,Dani Requena,https://media.api-sports.io/football/players/391131.png,9.0,6.5,M,2025-05-25T14:15:00+00:00
+1208835,536,Sevilla,https://media.api-sports.io/football/teams/536.png,533,0,47016,Álvaro Fernández,https://media.api-sports.io/football/players/47016.png,90.0,5.9,G,2025-05-25T14:15:00+00:00
+1208835,536,Sevilla,https://media.api-sports.io/football/teams/536.png,533,0,195923,José Ángel Carmona,https://media.api-sports.io/football/players/195923.png,63.0,6.0,D,2025-05-25T14:15:00+00:00
+1208835,536,Sevilla,https://media.api-sports.io/football/teams/536.png,533,0,297311,Kike Salas,https://media.api-sports.io/football/players/297311.png,90.0,5.9,D,2025-05-25T14:15:00+00:00
+1208835,536,Sevilla,https://media.api-sports.io/football/teams/536.png,533,0,433,Marcão,https://media.api-sports.io/football/players/433.png,90.0,6.5,D,2025-05-25T14:15:00+00:00
+1208835,536,Sevilla,https://media.api-sports.io/football/teams/536.png,533,0,47329,Adrià Pedrosa,https://media.api-sports.io/football/players/47329.png,90.0,7.0,D,2025-05-25T14:15:00+00:00
+1208835,536,Sevilla,https://media.api-sports.io/football/teams/536.png,533,0,21004,Lucien Agoumé,https://media.api-sports.io/football/players/21004.png,90.0,8.0,M,2025-05-25T14:15:00+00:00
+1208835,536,Sevilla,https://media.api-sports.io/football/teams/536.png,533,0,1489,Nemanja Gudelj,https://media.api-sports.io/football/players/1489.png,90.0,6.2,M,2025-05-25T14:15:00+00:00
+1208835,536,Sevilla,https://media.api-sports.io/football/teams/536.png,533,0,182772,Juanlu Sánchez,https://media.api-sports.io/football/players/182772.png,74.0,6.0,M,2025-05-25T14:15:00+00:00
+1208835,536,Sevilla,https://media.api-sports.io/football/teams/536.png,533,0,1650,Suso,https://media.api-sports.io/football/players/1650.png,87.0,7.3,M,2025-05-25T14:15:00+00:00
+1208835,536,Sevilla,https://media.api-sports.io/football/teams/536.png,533,0,957,Djibril Sow,https://media.api-sports.io/football/players/957.png,45.0,7.6,M,2025-05-25T14:15:00+00:00
+1208835,536,Sevilla,https://media.api-sports.io/football/teams/536.png,533,0,486472,Alvaro Garcia-Pascual,https://media.api-sports.io/football/players/486472.png,63.0,6.6,F,2025-05-25T14:15:00+00:00
+1208835,536,Sevilla,https://media.api-sports.io/football/teams/536.png,533,0,25458,Dodi Lukebakio,https://media.api-sports.io/football/players/25458.png,45.0,7.2,F,2025-05-25T14:15:00+00:00
+1208835,536,Sevilla,https://media.api-sports.io/football/teams/536.png,533,0,197196,Ramón Martínez,https://media.api-sports.io/football/players/197196.png,27.0,7.3,D,2025-05-25T14:15:00+00:00
+1208835,536,Sevilla,https://media.api-sports.io/football/teams/536.png,533,0,162126,Peque Fernández,https://media.api-sports.io/football/players/162126.png,27.0,6.6,F,2025-05-25T14:15:00+00:00
+1208835,536,Sevilla,https://media.api-sports.io/football/teams/536.png,533,0,331607,Manu Bueno,https://media.api-sports.io/football/players/331607.png,16.0,6.7,M,2025-05-25T14:15:00+00:00
+1208832,547,Girona,https://media.api-sports.io/football/teams/547.png,530,1,432476,Vladyslav Krapyvtsov,https://media.api-sports.io/football/players/432476.png,90.0,6.9,G,2025-05-25T12:00:00+00:00
+1208832,547,Girona,https://media.api-sports.io/football/teams/547.png,530,1,283668,Arnau Martínez,https://media.api-sports.io/football/players/283668.png,90.0,6.3,D,2025-05-25T12:00:00+00:00
+1208832,547,Girona,https://media.api-sports.io/football/teams/547.png,530,1,162434,Alejandro Francés,https://media.api-sports.io/football/players/162434.png,64.0,7.2,D,2025-05-25T12:00:00+00:00
+1208832,547,Girona,https://media.api-sports.io/football/teams/547.png,530,1,66407,Ladislav Krejčí,https://media.api-sports.io/football/players/66407.png,90.0,5.6,D,2025-05-25T12:00:00+00:00
+1208832,547,Girona,https://media.api-sports.io/football/teams/547.png,530,1,531,Daley Blind,https://media.api-sports.io/football/players/531.png,90.0,6.5,D,2025-05-25T12:00:00+00:00
+1208832,547,Girona,https://media.api-sports.io/football/teams/547.png,530,1,2182,Viktor Tsygankov,https://media.api-sports.io/football/players/2182.png,90.0,6.3,M,2025-05-25T12:00:00+00:00
+1208832,547,Girona,https://media.api-sports.io/football/teams/547.png,530,1,2449,Yangel Herrera,https://media.api-sports.io/football/players/2449.png,73.0,6.9,M,2025-05-25T12:00:00+00:00
+1208832,547,Girona,https://media.api-sports.io/football/teams/547.png,530,1,150,Arthur,https://media.api-sports.io/football/players/150.png,73.0,6.5,M,2025-05-25T12:00:00+00:00
+1208832,547,Girona,https://media.api-sports.io/football/teams/547.png,530,1,281795,Yáser Asprilla,https://media.api-sports.io/football/players/281795.png,90.0,6.3,M,2025-05-25T12:00:00+00:00
+1208832,547,Girona,https://media.api-sports.io/football/teams/547.png,530,1,2617,Cristhian Stuani,https://media.api-sports.io/football/players/2617.png,89.0,6.7,F,2025-05-25T12:00:00+00:00
+1208832,547,Girona,https://media.api-sports.io/football/teams/547.png,530,1,47520,Portu,https://media.api-sports.io/football/players/47520.png,64.0,6.3,F,2025-05-25T12:00:00+00:00
+1208832,547,Girona,https://media.api-sports.io/football/teams/547.png,530,1,47511,Juanpe,https://media.api-sports.io/football/players/47511.png,26.0,5.9,D,2025-05-25T12:00:00+00:00
+1208832,547,Girona,https://media.api-sports.io/football/teams/547.png,530,1,1700,Iván Martín,https://media.api-sports.io/football/players/1700.png,26.0,6.3,M,2025-05-25T12:00:00+00:00
+1208832,547,Girona,https://media.api-sports.io/football/teams/547.png,530,1,18949,Oriol Romeu,https://media.api-sports.io/football/players/18949.png,17.0,5.7,M,2025-05-25T12:00:00+00:00
+1208832,547,Girona,https://media.api-sports.io/football/teams/547.png,530,1,155,Abel Ruíz,https://media.api-sports.io/football/players/155.png,17.0,6.2,F,2025-05-25T12:00:00+00:00
+1208832,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,547,0,2465,Juan Musso,https://media.api-sports.io/football/players/2465.png,90.0,7.2,G,2025-05-25T12:00:00+00:00
+1208832,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,547,0,6503,Nahuel Molina,https://media.api-sports.io/football/players/6503.png,62.0,6.9,D,2025-05-25T12:00:00+00:00
+1208832,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,547,0,20,Axel Witsel,https://media.api-sports.io/football/players/20.png,90.0,7.2,D,2025-05-25T12:00:00+00:00
+1208832,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,547,0,133,Clément Lenglet,https://media.api-sports.io/football/players/133.png,90.0,8.3,D,2025-05-25T12:00:00+00:00
+1208832,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,547,0,2280,César Azpilicueta,https://media.api-sports.io/football/players/2280.png,90.0,7.5,D,2025-05-25T12:00:00+00:00
+1208832,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,547,0,753,Marcos Llorente,https://media.api-sports.io/football/players/753.png,90.0,6.9,M,2025-05-25T12:00:00+00:00
+1208832,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,547,0,2472,Rodrigo de Paul,https://media.api-sports.io/football/players/2472.png,78.0,8.2,M,2025-05-25T12:00:00+00:00
+1208832,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,547,0,50,Koke,https://media.api-sports.io/football/players/50.png,71.0,7.5,M,2025-05-25T12:00:00+00:00
+1208832,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,547,0,126936,Samuel Lino,https://media.api-sports.io/football/players/126936.png,70.0,7.2,M,2025-05-25T12:00:00+00:00
+1208832,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,547,0,6009,Julián Álvarez,https://media.api-sports.io/football/players/6009.png,90.0,8.2,F,2025-05-25T12:00:00+00:00
+1208832,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,547,0,56,Antoine Griezmann,https://media.api-sports.io/football/players/56.png,62.0,7.3,F,2025-05-25T12:00:00+00:00
+1208832,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,547,0,323935,Giuliano Simeone,https://media.api-sports.io/football/players/323935.png,28.0,6.9,F,2025-05-25T12:00:00+00:00
+1208832,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,547,0,8492,Alexander Sørloth,https://media.api-sports.io/football/players/8492.png,28.0,9.5,F,2025-05-25T12:00:00+00:00
+1208832,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,547,0,53,Ángel Correa,https://media.api-sports.io/football/players/53.png,20.0,7.0,F,2025-05-25T12:00:00+00:00
+1208832,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,547,0,67972,Conor Gallagher,https://media.api-sports.io/football/players/67972.png,19.0,6.9,M,2025-05-25T12:00:00+00:00
+1208832,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,547,0,336594,Pablo Barrios,https://media.api-sports.io/football/players/336594.png,12.0,6.3,M,2025-05-25T12:00:00+00:00
+1208830,542,Alaves,https://media.api-sports.io/football/teams/542.png,727,1,47353,Antonio Sivera,https://media.api-sports.io/football/players/47353.png,90.0,7.6,G,2025-05-24T19:00:00+00:00
+1208830,542,Alaves,https://media.api-sports.io/football/teams/542.png,727,1,6233,Nahuel Tenaglia,https://media.api-sports.io/football/players/6233.png,90.0,7.3,D,2025-05-24T19:00:00+00:00
+1208830,542,Alaves,https://media.api-sports.io/football/teams/542.png,727,1,6638,Facundo Garcés,https://media.api-sports.io/football/players/6638.png,90.0,6.9,D,2025-05-24T19:00:00+00:00
+1208830,542,Alaves,https://media.api-sports.io/football/teams/542.png,727,1,40419,Aleksandar Sedlar,https://media.api-sports.io/football/players/40419.png,79.0,7.0,D,2025-05-24T19:00:00+00:00
+1208830,542,Alaves,https://media.api-sports.io/football/teams/542.png,727,1,64309,Manuel Sánchez,https://media.api-sports.io/football/players/64309.png,90.0,7.5,D,2025-05-24T19:00:00+00:00
+1208830,542,Alaves,https://media.api-sports.io/football/teams/542.png,727,1,6085,Carlos Benavídez,https://media.api-sports.io/football/players/6085.png,79.0,7.3,M,2025-05-24T19:00:00+00:00
+1208830,542,Alaves,https://media.api-sports.io/football/teams/542.png,727,1,162686,Antonio Blanco,https://media.api-sports.io/football/players/162686.png,90.0,7.0,M,2025-05-24T19:00:00+00:00
+1208830,542,Alaves,https://media.api-sports.io/football/teams/542.png,727,1,187214,Carlos Vicente,https://media.api-sports.io/football/players/187214.png,90.0,7.9,M,2025-05-24T19:00:00+00:00
+1208830,542,Alaves,https://media.api-sports.io/football/teams/542.png,727,1,104821,Jon Guridi,https://media.api-sports.io/football/players/104821.png,63.0,6.2,M,2025-05-24T19:00:00+00:00
+1208830,542,Alaves,https://media.api-sports.io/football/teams/542.png,727,1,143,Carles Aleñá,https://media.api-sports.io/football/players/143.png,90.0,7.7,M,2025-05-24T19:00:00+00:00
+1208830,542,Alaves,https://media.api-sports.io/football/teams/542.png,727,1,47396,Kike García,https://media.api-sports.io/football/players/47396.png,63.0,7.2,F,2025-05-24T19:00:00+00:00
+1208830,542,Alaves,https://media.api-sports.io/football/teams/542.png,727,1,51241,Tomás Conechny,https://media.api-sports.io/football/players/51241.png,27.0,6.9,F,2025-05-24T19:00:00+00:00
+1208830,542,Alaves,https://media.api-sports.io/football/teams/542.png,727,1,47181,Toni Martínez,https://media.api-sports.io/football/players/47181.png,27.0,5.9,F,2025-05-24T19:00:00+00:00
+1208830,542,Alaves,https://media.api-sports.io/football/teams/542.png,727,1,295383,Adrián Pica,https://media.api-sports.io/football/players/295383.png,11.0,6.3,D,2025-05-24T19:00:00+00:00
+1208830,542,Alaves,https://media.api-sports.io/football/teams/542.png,727,1,324750,Carlos Martín,https://media.api-sports.io/football/players/324750.png,11.0,6.9,F,2025-05-24T19:00:00+00:00
+1208830,727,Osasuna,https://media.api-sports.io/football/teams/727.png,542,0,46646,Sergio Herrera,https://media.api-sports.io/football/players/46646.png,90.0,7.2,G,2025-05-24T19:00:00+00:00
+1208830,727,Osasuna,https://media.api-sports.io/football/teams/727.png,542,0,182181,Jesús Areso,https://media.api-sports.io/football/players/182181.png,90.0,6.9,D,2025-05-24T19:00:00+00:00
+1208830,727,Osasuna,https://media.api-sports.io/football/teams/727.png,542,0,279822,Flavien Boyomo,https://media.api-sports.io/football/players/279822.png,90.0,7.0,D,2025-05-24T19:00:00+00:00
+1208830,727,Osasuna,https://media.api-sports.io/football/teams/727.png,542,0,47533,Alejandro Catena,https://media.api-sports.io/football/players/47533.png,90.0,7.7,D,2025-05-24T19:00:00+00:00
+1208830,727,Osasuna,https://media.api-sports.io/football/teams/727.png,542,0,46967,Juan Cruz,https://media.api-sports.io/football/players/46967.png,59.0,6.3,D,2025-05-24T19:00:00+00:00
+1208830,727,Osasuna,https://media.api-sports.io/football/teams/727.png,542,0,139001,Pablo Ibáñez,https://media.api-sports.io/football/players/139001.png,59.0,6.3,M,2025-05-24T19:00:00+00:00
+1208830,727,Osasuna,https://media.api-sports.io/football/teams/727.png,542,0,1825,Lucas Torró,https://media.api-sports.io/football/players/1825.png,45.0,6.3,M,2025-05-24T19:00:00+00:00
+1208830,727,Osasuna,https://media.api-sports.io/football/teams/727.png,542,0,46658,Rubén García,https://media.api-sports.io/football/players/46658.png,89.0,7.3,M,2025-05-24T19:00:00+00:00
+1208830,727,Osasuna,https://media.api-sports.io/football/teams/727.png,542,0,67939,Aimar Oroz,https://media.api-sports.io/football/players/67939.png,90.0,7.2,M,2025-05-24T19:00:00+00:00
+1208830,727,Osasuna,https://media.api-sports.io/football/teams/727.png,542,0,286639,Bryan Zaragoza,https://media.api-sports.io/football/players/286639.png,82.0,7.3,M,2025-05-24T19:00:00+00:00
+1208830,727,Osasuna,https://media.api-sports.io/football/teams/727.png,542,0,46746,Ante Budimir,https://media.api-sports.io/football/players/46746.png,90.0,7.0,F,2025-05-24T19:00:00+00:00
+1208830,727,Osasuna,https://media.api-sports.io/football/teams/727.png,542,0,182621,Iker Muñoz,https://media.api-sports.io/football/players/182621.png,45.0,7.2,M,2025-05-24T19:00:00+00:00
+1208830,727,Osasuna,https://media.api-sports.io/football/teams/727.png,542,0,181259,Abel Bretones,https://media.api-sports.io/football/players/181259.png,31.0,7.0,D,2025-05-24T19:00:00+00:00
+1208830,727,Osasuna,https://media.api-sports.io/football/teams/727.png,542,0,146751,Raúl García de Haro,https://media.api-sports.io/football/players/146751.png,31.0,7.3,F,2025-05-24T19:00:00+00:00
+1208830,727,Osasuna,https://media.api-sports.io/football/teams/727.png,542,0,47419,José Manuel Arnáiz,https://media.api-sports.io/football/players/47419.png,8.0,6.9,F,2025-05-24T19:00:00+00:00
+1208833,546,Getafe,https://media.api-sports.io/football/teams/546.png,538,1,47247,David Soria,https://media.api-sports.io/football/players/47247.png,90.0,7.6,G,2025-05-24T19:00:00+00:00
+1208833,546,Getafe,https://media.api-sports.io/football/teams/546.png,538,1,47407,Allan Nyom,https://media.api-sports.io/football/players/47407.png,90.0,6.3,D,2025-05-24T19:00:00+00:00
+1208833,546,Getafe,https://media.api-sports.io/football/teams/546.png,538,1,46795,Domingos Duarte,https://media.api-sports.io/football/players/46795.png,90.0,6.6,D,2025-05-24T19:00:00+00:00
+1208833,546,Getafe,https://media.api-sports.io/football/teams/546.png,538,1,2039,Juan Berrocal,https://media.api-sports.io/football/players/2039.png,45.0,6.3,D,2025-05-24T19:00:00+00:00
+1208833,546,Getafe,https://media.api-sports.io/football/teams/546.png,538,1,18867,Diego Rico,https://media.api-sports.io/football/players/18867.png,90.0,6.5,D,2025-05-24T19:00:00+00:00
+1208833,546,Getafe,https://media.api-sports.io/football/teams/546.png,538,1,119742,Juan Iglesias,https://media.api-sports.io/football/players/119742.png,90.0,6.7,M,2025-05-24T19:00:00+00:00
+1208833,546,Getafe,https://media.api-sports.io/football/teams/546.png,538,1,47258,Mauro Arambarri,https://media.api-sports.io/football/players/47258.png,59.0,6.9,M,2025-05-24T19:00:00+00:00
+1208833,546,Getafe,https://media.api-sports.io/football/teams/546.png,538,1,47250,Djené,https://media.api-sports.io/football/players/47250.png,90.0,6.7,M,2025-05-24T19:00:00+00:00
+1208833,546,Getafe,https://media.api-sports.io/football/teams/546.png,538,1,403554,Christantus Uche,https://media.api-sports.io/football/players/403554.png,84.0,6.7,M,2025-05-24T19:00:00+00:00
+1208833,546,Getafe,https://media.api-sports.io/football/teams/546.png,538,1,187987,Ramón Terrats,https://media.api-sports.io/football/players/187987.png,59.0,6.6,F,2025-05-24T19:00:00+00:00
+1208833,546,Getafe,https://media.api-sports.io/football/teams/546.png,538,1,47472,Borja Mayoral,https://media.api-sports.io/football/players/47472.png,79.0,7.3,F,2025-05-24T19:00:00+00:00
+1208833,546,Getafe,https://media.api-sports.io/football/teams/546.png,538,1,364415,Yellu Santiago,https://media.api-sports.io/football/players/364415.png,45.0,6.3,M,2025-05-24T19:00:00+00:00
+1208833,546,Getafe,https://media.api-sports.io/football/teams/546.png,538,1,439617,Ismael Bekhoucha,https://media.api-sports.io/football/players/439617.png,31.0,6.7,D,2025-05-24T19:00:00+00:00
+1208833,546,Getafe,https://media.api-sports.io/football/teams/546.png,538,1,47320,Juanmi,https://media.api-sports.io/football/players/47320.png,31.0,6.2,F,2025-05-24T19:00:00+00:00
+1208833,546,Getafe,https://media.api-sports.io/football/teams/546.png,538,1,68483,Bertuğ Yıldırım,https://media.api-sports.io/football/players/68483.png,11.0,6.3,F,2025-05-24T19:00:00+00:00
+1208833,546,Getafe,https://media.api-sports.io/football/teams/546.png,538,1,309364,Coba da Costa,https://media.api-sports.io/football/players/309364.png,14.0,6.5,F,2025-05-24T19:00:00+00:00
+1208833,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,546,0,18835,Vicente Guaita,https://media.api-sports.io/football/players/18835.png,90.0,5.9,G,2025-05-24T19:00:00+00:00
+1208833,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,546,0,384135,Javi Rodríguez,https://media.api-sports.io/football/players/384135.png,90.0,6.9,D,2025-05-24T19:00:00+00:00
+1208833,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,546,0,286559,Carlos Domínguez,https://media.api-sports.io/football/players/286559.png,90.0,7.5,D,2025-05-24T19:00:00+00:00
+1208833,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,546,0,2278,Marcos Alonso,https://media.api-sports.io/football/players/2278.png,90.0,7.9,D,2025-05-24T19:00:00+00:00
+1208833,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,546,0,162712,Óscar Mingueza,https://media.api-sports.io/football/players/162712.png,84.0,7.3,M,2025-05-24T19:00:00+00:00
+1208833,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,546,0,47435,Fran Beltrán,https://media.api-sports.io/football/players/47435.png,90.0,6.9,M,2025-05-24T19:00:00+00:00
+1208833,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,546,0,162123,Ilaix Moriba,https://media.api-sports.io/football/players/162123.png,89.0,7.0,M,2025-05-24T19:00:00+00:00
+1208833,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,546,0,157988,Sergio Carreira,https://media.api-sports.io/football/players/157988.png,90.0,7.3,M,2025-05-24T19:00:00+00:00
+1208833,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,546,0,47445,Iago Aspas,https://media.api-sports.io/football/players/47445.png,84.0,8.9,F,2025-05-24T19:00:00+00:00
+1208833,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,546,0,119213,Alfon González,https://media.api-sports.io/football/players/119213.png,73.0,6.9,F,2025-05-24T19:00:00+00:00
+1208833,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,546,0,47348,Borja Iglesias,https://media.api-sports.io/football/players/47348.png,73.0,7.3,F,2025-05-24T19:00:00+00:00
+1208833,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,546,0,269163,Williot Swedberg,https://media.api-sports.io/football/players/269163.png,17.0,7.2,M,2025-05-24T19:00:00+00:00
+1208833,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,546,0,320517,Pablo Durán,https://media.api-sports.io/football/players/320517.png,17.0,6.9,F,2025-05-24T19:00:00+00:00
+1208833,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,546,0,21584,Mihailo Ristić,https://media.api-sports.io/football/players/21584.png,14.0,6.7,D,2025-05-24T19:00:00+00:00
+1208833,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,546,0,391822,Fer López,https://media.api-sports.io/football/players/391822.png,14.0,6.9,M,2025-05-24T19:00:00+00:00
+1208834,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,798,1,11379,Augusto Batalla,https://media.api-sports.io/football/players/11379.png,90.0,7.2,G,2025-05-24T19:00:00+00:00
+1208834,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,798,1,20520,Iván Balliu,https://media.api-sports.io/football/players/20520.png,59.0,6.7,D,2025-05-24T19:00:00+00:00
+1208834,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,798,1,18895,Florian Lejeune,https://media.api-sports.io/football/players/18895.png,90.0,7.9,D,2025-05-24T19:00:00+00:00
+1208834,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,798,1,46654,Aridane Hernández,https://media.api-sports.io/football/players/46654.png,90.0,7.2,D,2025-05-24T19:00:00+00:00
+1208834,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,798,1,181734,Josep Chavarría,https://media.api-sports.io/football/players/181734.png,90.0,7.9,D,2025-05-24T19:00:00+00:00
+1208834,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,798,1,41552,Pathé Ismaël Ciss,https://media.api-sports.io/football/players/41552.png,90.0,7.2,M,2025-05-24T19:00:00+00:00
+1208834,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,798,1,47285,Unai López,https://media.api-sports.io/football/players/47285.png,50.0,7.2,M,2025-05-24T19:00:00+00:00
+1208834,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,798,1,1703,Andrei Rațiu,https://media.api-sports.io/football/players/1703.png,90.0,7.2,M,2025-05-24T19:00:00+00:00
+1208834,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,798,1,131546,Isi Palazón,https://media.api-sports.io/football/players/131546.png,89.0,7.7,M,2025-05-24T19:00:00+00:00
+1208834,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,798,1,47543,Álvaro García,https://media.api-sports.io/football/players/47543.png,90.0,7.3,M,2025-05-24T19:00:00+00:00
+1208834,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,798,1,128582,Jorge de Frutos,https://media.api-sports.io/football/players/128582.png,89.0,6.5,F,2025-05-24T19:00:00+00:00
+1208834,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,798,1,46887,Pedro Díaz,https://media.api-sports.io/football/players/46887.png,40.0,7.5,M,2025-05-24T19:00:00+00:00
+1208834,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,798,1,47414,Gerard Gumbau,https://media.api-sports.io/football/players/47414.png,31.0,6.6,M,2025-05-24T19:00:00+00:00
+1208834,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,798,1,47557,Óscar Trejo,https://media.api-sports.io/football/players/47557.png,8.0,6.2,M,2025-05-24T19:00:00+00:00
+1208834,728,Rayo Vallecano,https://media.api-sports.io/football/teams/728.png,798,1,47554,Adrián Embarba,https://media.api-sports.io/football/players/47554.png,8.0,6.9,F,2025-05-24T19:00:00+00:00
+1208834,798,Mallorca,https://media.api-sports.io/football/teams/798.png,728,0,61142,Dominik Greif,https://media.api-sports.io/football/players/61142.png,90.0,9.2,G,2025-05-24T19:00:00+00:00
+1208834,798,Mallorca,https://media.api-sports.io/football/teams/798.png,728,0,108519,Mateu Morey,https://media.api-sports.io/football/players/108519.png,90.0,6.9,D,2025-05-24T19:00:00+00:00
+1208834,798,Mallorca,https://media.api-sports.io/football/teams/798.png,728,0,335697,David López,https://media.api-sports.io/football/players/335697.png,90.0,7.3,D,2025-05-24T19:00:00+00:00
+1208834,798,Mallorca,https://media.api-sports.io/football/teams/798.png,728,0,46733,Antonio Raíllo,https://media.api-sports.io/football/players/46733.png,90.0,7.6,D,2025-05-24T19:00:00+00:00
+1208834,798,Mallorca,https://media.api-sports.io/football/teams/798.png,728,0,920,Toni Lato,https://media.api-sports.io/football/players/920.png,79.0,7.3,D,2025-05-24T19:00:00+00:00
+1208834,798,Mallorca,https://media.api-sports.io/football/teams/798.png,728,0,107194,Antonio Sánchez,https://media.api-sports.io/football/players/107194.png,72.0,6.2,M,2025-05-24T19:00:00+00:00
+1208834,798,Mallorca,https://media.api-sports.io/football/teams/798.png,728,0,190485,Samú Costa,https://media.api-sports.io/football/players/190485.png,90.0,7.2,M,2025-05-24T19:00:00+00:00
+1208834,798,Mallorca,https://media.api-sports.io/football/teams/798.png,728,0,414,Omar Mascarell,https://media.api-sports.io/football/players/414.png,65.0,6.3,M,2025-05-24T19:00:00+00:00
+1208834,798,Mallorca,https://media.api-sports.io/football/teams/798.png,728,0,47336,Sergi Darder,https://media.api-sports.io/football/players/47336.png,90.0,6.9,M,2025-05-24T19:00:00+00:00
+1208834,798,Mallorca,https://media.api-sports.io/football/teams/798.png,728,0,50048,Vedat Muriqi,https://media.api-sports.io/football/players/50048.png,65.0,6.9,F,2025-05-24T19:00:00+00:00
+1208834,798,Mallorca,https://media.api-sports.io/football/teams/798.png,728,0,482473,Marc Domenech,https://media.api-sports.io/football/players/482473.png,72.0,6.3,F,2025-05-24T19:00:00+00:00
+1208834,798,Mallorca,https://media.api-sports.io/football/teams/798.png,728,0,1701,Manu Morlanes,https://media.api-sports.io/football/players/1701.png,25.0,6.6,M,2025-05-24T19:00:00+00:00
+1208834,798,Mallorca,https://media.api-sports.io/football/teams/798.png,728,0,2001,Cyle Larin,https://media.api-sports.io/football/players/2001.png,25.0,6.7,F,2025-05-24T19:00:00+00:00
+1208834,798,Mallorca,https://media.api-sports.io/football/teams/798.png,728,0,411424,Jan Salas,https://media.api-sports.io/football/players/411424.png,18.0,6.6,M,2025-05-24T19:00:00+00:00
+1208834,798,Mallorca,https://media.api-sports.io/football/teams/798.png,728,0,46742,Dani Rodríguez,https://media.api-sports.io/football/players/46742.png,18.0,6.7,M,2025-05-24T19:00:00+00:00
+1208834,798,Mallorca,https://media.api-sports.io/football/teams/798.png,728,0,64268,Johan Mojica,https://media.api-sports.io/football/players/64268.png,11.0,6.2,D,2025-05-24T19:00:00+00:00
+1208831,537,Leganes,https://media.api-sports.io/football/teams/537.png,720,1,2813,Marko Dmitrović,https://media.api-sports.io/football/players/2813.png,90.0,7.7,G,2025-05-24T16:30:00+00:00
+1208831,537,Leganes,https://media.api-sports.io/football/teams/537.png,720,1,162122,Adrià Altimira,https://media.api-sports.io/football/players/162122.png,90.0,7.3,D,2025-05-24T16:30:00+00:00
+1208831,537,Leganes,https://media.api-sports.io/football/teams/537.png,720,1,47080,Jorge Sáenz,https://media.api-sports.io/football/players/47080.png,90.0,6.9,D,2025-05-24T16:30:00+00:00
+1208831,537,Leganes,https://media.api-sports.io/football/teams/537.png,720,1,123047,Sergio González,https://media.api-sports.io/football/players/123047.png,90.0,7.3,D,2025-05-24T16:30:00+00:00
+1208831,537,Leganes,https://media.api-sports.io/football/teams/537.png,720,1,46849,Javier Hernández,https://media.api-sports.io/football/players/46849.png,90.0,7.5,D,2025-05-24T16:30:00+00:00
+1208831,537,Leganes,https://media.api-sports.io/football/teams/537.png,720,1,185202,Juan Cruz,https://media.api-sports.io/football/players/185202.png,90.0,7.3,M,2025-05-24T16:30:00+00:00
+1208831,537,Leganes,https://media.api-sports.io/football/teams/537.png,720,1,302051,Seydouba Cisse,https://media.api-sports.io/football/players/302051.png,74.0,7.3,M,2025-05-24T16:30:00+00:00
+1208831,537,Leganes,https://media.api-sports.io/football/teams/537.png,720,1,2433,Renato Tapia,https://media.api-sports.io/football/players/2433.png,83.0,6.9,M,2025-05-24T16:30:00+00:00
+1208831,537,Leganes,https://media.api-sports.io/football/teams/537.png,720,1,513776,Yan Diomande,https://media.api-sports.io/football/players/513776.png,63.0,9.3,M,2025-05-24T16:30:00+00:00
+1208831,537,Leganes,https://media.api-sports.io/football/teams/537.png,720,1,1708,Dani Raba,https://media.api-sports.io/football/players/1708.png,75.0,7.3,F,2025-05-24T16:30:00+00:00
+1208831,537,Leganes,https://media.api-sports.io/football/teams/537.png,720,1,2060,Munir El Haddadi,https://media.api-sports.io/football/players/2060.png,63.0,7.0,F,2025-05-24T16:30:00+00:00
+1208831,537,Leganes,https://media.api-sports.io/football/teams/537.png,720,1,184481,Diego Garcia,https://media.api-sports.io/football/players/184481.png,27.0,6.3,F,2025-05-24T16:30:00+00:00
+1208831,537,Leganes,https://media.api-sports.io/football/teams/537.png,720,1,162944,Duk,https://media.api-sports.io/football/players/162944.png,27.0,6.7,F,2025-05-24T16:30:00+00:00
+1208831,537,Leganes,https://media.api-sports.io/football/teams/537.png,720,1,47361,Darko Brašanac,https://media.api-sports.io/football/players/47361.png,16.0,6.3,M,2025-05-24T16:30:00+00:00
+1208831,537,Leganes,https://media.api-sports.io/football/teams/537.png,720,1,47494,Miguel de la Fuente,https://media.api-sports.io/football/players/47494.png,15.0,6.3,F,2025-05-24T16:30:00+00:00
+1208831,537,Leganes,https://media.api-sports.io/football/teams/537.png,720,1,5974,Julián Chicco,https://media.api-sports.io/football/players/5974.png,8.0,6.7,M,2025-05-24T16:30:00+00:00
+1208831,720,Valladolid,https://media.api-sports.io/football/teams/720.png,537,0,169295,Karl Hein,https://media.api-sports.io/football/players/169295.png,90.0,6.0,G,2025-05-24T16:30:00+00:00
+1208831,720,Valladolid,https://media.api-sports.io/football/teams/720.png,537,0,30770,Antonio Candela,https://media.api-sports.io/football/players/30770.png,45.0,5.2,D,2025-05-24T16:30:00+00:00
+1208831,720,Valladolid,https://media.api-sports.io/football/teams/720.png,537,0,1926,Joseph Aidoo,https://media.api-sports.io/football/players/1926.png,45.0,6.2,D,2025-05-24T16:30:00+00:00
+1208831,720,Valladolid,https://media.api-sports.io/football/teams/720.png,537,0,48372,Eray Cömert,https://media.api-sports.io/football/players/48372.png,90.0,6.6,D,2025-05-24T16:30:00+00:00
+1208831,720,Valladolid,https://media.api-sports.io/football/teams/720.png,537,0,10561,Henrique,https://media.api-sports.io/football/players/10561.png,90.0,6.2,D,2025-05-24T16:30:00+00:00
+1208831,720,Valladolid,https://media.api-sports.io/football/teams/720.png,537,0,2717,Anuar,https://media.api-sports.io/football/players/2717.png,45.0,6.5,M,2025-05-24T16:30:00+00:00
+1208831,720,Valladolid,https://media.api-sports.io/football/teams/720.png,537,0,28373,Tamás Nikitscher,https://media.api-sports.io/football/players/28373.png,90.0,7.2,M,2025-05-24T16:30:00+00:00
+1208831,720,Valladolid,https://media.api-sports.io/football/teams/720.png,537,0,506254,Ibrahim Alani,https://media.api-sports.io/football/players/506254.png,90.0,6.9,M,2025-05-24T16:30:00+00:00
+1208831,720,Valladolid,https://media.api-sports.io/football/teams/720.png,537,0,264470,Raúl Moro,https://media.api-sports.io/football/players/264470.png,90.0,6.6,M,2025-05-24T16:30:00+00:00
+1208831,720,Valladolid,https://media.api-sports.io/football/teams/720.png,537,0,8518,Mamadou Sylla,https://media.api-sports.io/football/players/8518.png,72.0,6.7,F,2025-05-24T16:30:00+00:00
+1208831,720,Valladolid,https://media.api-sports.io/football/teams/720.png,537,0,162028,Juanmi Latasa,https://media.api-sports.io/football/players/162028.png,72.0,6.9,F,2025-05-24T16:30:00+00:00
+1208831,720,Valladolid,https://media.api-sports.io/football/teams/720.png,537,0,72048,Cenk Özkaçar,https://media.api-sports.io/football/players/72048.png,45.0,6.3,D,2025-05-24T16:30:00+00:00
+1208831,720,Valladolid,https://media.api-sports.io/football/teams/720.png,537,0,47078,Luis Pérez,https://media.api-sports.io/football/players/47078.png,45.0,7.3,D,2025-05-24T16:30:00+00:00
+1208831,720,Valladolid,https://media.api-sports.io/football/teams/720.png,537,0,199042,Mario Maroto,https://media.api-sports.io/football/players/199042.png,45.0,6.2,M,2025-05-24T16:30:00+00:00
+1208831,720,Valladolid,https://media.api-sports.io/football/teams/720.png,537,0,440339,Adrián Arnu,https://media.api-sports.io/football/players/440339.png,18.0,6.3,F,2025-05-24T16:30:00+00:00
+1208831,720,Valladolid,https://media.api-sports.io/football/teams/720.png,537,0,104793,Amath Ndiaye,https://media.api-sports.io/football/players/104793.png,18.0,6.6,F,2025-05-24T16:30:00+00:00
+1212947,540,Espanyol,https://media.api-sports.io/football/teams/540.png,534,1,182718,Joan García,https://media.api-sports.io/football/players/182718.png,90.0,8.2,G,2025-05-24T16:30:00+00:00
+1212947,540,Espanyol,https://media.api-sports.io/football/teams/540.png,534,1,286601,Omar El Hilali,https://media.api-sports.io/football/players/286601.png,90.0,7.2,D,2025-05-24T16:30:00+00:00
+1212947,540,Espanyol,https://media.api-sports.io/football/teams/540.png,534,1,47478,Fernando Calero,https://media.api-sports.io/football/players/47478.png,90.0,7.2,D,2025-05-24T16:30:00+00:00
+1212947,540,Espanyol,https://media.api-sports.io/football/teams/540.png,534,1,47249,Leandro Cabrera,https://media.api-sports.io/football/players/47249.png,90.0,7.0,D,2025-05-24T16:30:00+00:00
+1212947,540,Espanyol,https://media.api-sports.io/football/teams/540.png,534,1,184420,Carlos Romero,https://media.api-sports.io/football/players/184420.png,90.0,7.7,D,2025-05-24T16:30:00+00:00
+1212947,540,Espanyol,https://media.api-sports.io/football/teams/540.png,534,1,183699,Urko González,https://media.api-sports.io/football/players/183699.png,79.0,6.9,M,2025-05-24T16:30:00+00:00
+1212947,540,Espanyol,https://media.api-sports.io/football/teams/540.png,534,1,127426,Pol Lozano,https://media.api-sports.io/football/players/127426.png,45.0,6.2,M,2025-05-24T16:30:00+00:00
+1212947,540,Espanyol,https://media.api-sports.io/football/teams/540.png,534,1,182674,Jofre Carreras,https://media.api-sports.io/football/players/182674.png,53.0,6.6,M,2025-05-24T16:30:00+00:00
+1212947,540,Espanyol,https://media.api-sports.io/football/teams/540.png,534,1,46799,Edu Expósito,https://media.api-sports.io/football/players/46799.png,60.0,6.5,M,2025-05-24T16:30:00+00:00
+1212947,540,Espanyol,https://media.api-sports.io/football/teams/540.png,534,1,47349,Javi Puado,https://media.api-sports.io/football/players/47349.png,90.0,8.0,M,2025-05-24T16:30:00+00:00
+1212947,540,Espanyol,https://media.api-sports.io/football/teams/540.png,534,1,312990,Roberto Fernández,https://media.api-sports.io/football/players/312990.png,79.0,6.6,F,2025-05-24T16:30:00+00:00
+1212947,540,Espanyol,https://media.api-sports.io/football/teams/540.png,534,1,47398,Pere Milla,https://media.api-sports.io/football/players/47398.png,45.0,7.5,M,2025-05-24T16:30:00+00:00
+1212947,540,Espanyol,https://media.api-sports.io/football/teams/540.png,534,1,311344,Alejo Véliz,https://media.api-sports.io/football/players/311344.png,37.0,7.0,F,2025-05-24T16:30:00+00:00
+1212947,540,Espanyol,https://media.api-sports.io/football/teams/540.png,534,1,1234,Alex Král,https://media.api-sports.io/football/players/1234.png,30.0,6.3,M,2025-05-24T16:30:00+00:00
+1212947,540,Espanyol,https://media.api-sports.io/football/teams/540.png,534,1,2042,Sergi Gómez,https://media.api-sports.io/football/players/2042.png,11.0,6.7,D,2025-05-24T16:30:00+00:00
+1212947,540,Espanyol,https://media.api-sports.io/football/teams/540.png,534,1,47195,Álvaro Aguado,https://media.api-sports.io/football/players/47195.png,11.0,7.2,M,2025-05-24T16:30:00+00:00
+1212947,534,Las Palmas,https://media.api-sports.io/football/teams/534.png,540,0,1304,Dinko Horkaš,https://media.api-sports.io/football/players/1304.png,90.0,6.7,G,2025-05-24T16:30:00+00:00
+1212947,534,Las Palmas,https://media.api-sports.io/football/teams/534.png,540,0,162026,Marvin Park,https://media.api-sports.io/football/players/162026.png,90.0,6.6,D,2025-05-24T16:30:00+00:00
+1212947,534,Las Palmas,https://media.api-sports.io/football/teams/534.png,540,0,431890,Juanma Herzog,https://media.api-sports.io/football/players/431890.png,80.0,7.0,D,2025-05-24T16:30:00+00:00
+1212947,534,Las Palmas,https://media.api-sports.io/football/teams/534.png,540,0,44811,Scott McKenna,https://media.api-sports.io/football/players/44811.png,90.0,6.3,D,2025-05-24T16:30:00+00:00
+1212947,534,Las Palmas,https://media.api-sports.io/football/teams/534.png,540,0,162475,Mika Mármol,https://media.api-sports.io/football/players/162475.png,90.0,6.6,D,2025-05-24T16:30:00+00:00
+1212947,534,Las Palmas,https://media.api-sports.io/football/teams/534.png,540,0,21709,Enzo Loiodice,https://media.api-sports.io/football/players/21709.png,90.0,7.5,M,2025-05-24T16:30:00+00:00
+1212947,534,Las Palmas,https://media.api-sports.io/football/teams/534.png,540,0,308678,Dário Essugo,https://media.api-sports.io/football/players/308678.png,70.0,6.5,M,2025-05-24T16:30:00+00:00
+1212947,534,Las Palmas,https://media.api-sports.io/football/teams/534.png,540,0,122230,Manuel Fuster,https://media.api-sports.io/football/players/122230.png,90.0,6.9,M,2025-05-24T16:30:00+00:00
+1212947,534,Las Palmas,https://media.api-sports.io/football/teams/534.png,540,0,490848,Sergio Vieira,https://media.api-sports.io/football/players/490848.png,61.0,6.9,M,2025-05-24T16:30:00+00:00
+1212947,534,Las Palmas,https://media.api-sports.io/football/teams/534.png,540,0,47111,Benito Ramírez,https://media.api-sports.io/football/players/47111.png,45.0,6.9,M,2025-05-24T16:30:00+00:00
+1212947,534,Las Palmas,https://media.api-sports.io/football/teams/534.png,540,0,2671,Jaime Mata,https://media.api-sports.io/football/players/2671.png,80.0,6.3,F,2025-05-24T16:30:00+00:00
+1212947,534,Las Palmas,https://media.api-sports.io/football/teams/534.png,540,0,2924,Adnan Januzaj,https://media.api-sports.io/football/players/2924.png,45.0,7.5,M,2025-05-24T16:30:00+00:00
+1212947,534,Las Palmas,https://media.api-sports.io/football/teams/534.png,540,0,404471,Diego Martín,https://media.api-sports.io/football/players/404471.png,29.0,6.3,F,2025-05-24T16:30:00+00:00
+1212947,534,Las Palmas,https://media.api-sports.io/football/teams/534.png,540,0,522649,Arturo Rodríguez,https://media.api-sports.io/football/players/522649.png,20.0,6.5,F,2025-05-24T16:30:00+00:00
+1212947,534,Las Palmas,https://media.api-sports.io/football/teams/534.png,540,0,522648,José Carlos González,https://media.api-sports.io/football/players/522648.png,10.0,6.5,M,2025-05-24T16:30:00+00:00
+1212947,534,Las Palmas,https://media.api-sports.io/football/teams/534.png,540,0,19337,Oliver McBurnie,https://media.api-sports.io/football/players/19337.png,10.0,6.6,F,2025-05-24T16:30:00+00:00
+1208829,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,548,1,47400,Andriy Lunin,https://media.api-sports.io/football/players/47400.png,90.0,7.0,G,2025-05-24T14:15:00+00:00
+1208829,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,548,1,757,Lucas Vázquez,https://media.api-sports.io/football/players/757.png,77.0,7.0,D,2025-05-24T14:15:00+00:00
+1208829,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,548,1,1271,Aurélien Tchouaméni,https://media.api-sports.io/football/players/1271.png,56.0,6.9,D,2025-05-24T14:15:00+00:00
+1208829,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,548,1,341640,Raúl Asencio,https://media.api-sports.io/football/players/341640.png,90.0,7.6,D,2025-05-24T14:15:00+00:00
+1208829,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,548,1,736,Fran García,https://media.api-sports.io/football/players/736.png,90.0,7.3,D,2025-05-24T14:15:00+00:00
+1208829,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,548,1,754,Luka Modrić,https://media.api-sports.io/football/players/754.png,87.0,7.7,M,2025-05-24T14:15:00+00:00
+1208829,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,548,1,756,Federico Valverde,https://media.api-sports.io/football/players/756.png,90.0,7.3,M,2025-05-24T14:15:00+00:00
+1208829,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,548,1,748,Dani Ceballos,https://media.api-sports.io/football/players/748.png,90.0,7.2,M,2025-05-24T14:15:00+00:00
+1208829,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,548,1,291964,Arda Güler,https://media.api-sports.io/football/players/291964.png,90.0,8.3,F,2025-05-24T14:15:00+00:00
+1208829,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,548,1,278,Kylian Mbappé,https://media.api-sports.io/football/players/278.png,90.0,8.2,F,2025-05-24T14:15:00+00:00
+1208829,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,548,1,744,Brahim Díaz,https://media.api-sports.io/football/players/744.png,55.0,7.3,F,2025-05-24T14:15:00+00:00
+1208829,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,548,1,762,Vinícius Júnior,https://media.api-sports.io/football/players/762.png,35.0,6.9,F,2025-05-24T14:15:00+00:00
+1208829,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,548,1,741,Jesús Vallejo,https://media.api-sports.io/football/players/741.png,34.0,6.6,D,2025-05-24T14:15:00+00:00
+1208829,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,548,1,336711,Gonzalo García,https://media.api-sports.io/football/players/336711.png,13.0,6.5,F,2025-05-24T14:15:00+00:00
+1208829,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,541,0,189832,Unai Marrero,https://media.api-sports.io/football/players/189832.png,90.0,8.2,G,2025-05-24T14:15:00+00:00
+1208829,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,541,0,199044,Jon Aramburu,https://media.api-sports.io/football/players/199044.png,90.0,6.6,D,2025-05-24T14:15:00+00:00
+1208829,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,541,0,405073,Jon Martin,https://media.api-sports.io/football/players/405073.png,90.0,6.9,D,2025-05-24T14:15:00+00:00
+1208829,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,541,0,182546,Jon Pacheco,https://media.api-sports.io/football/players/182546.png,90.0,6.6,D,2025-05-24T14:15:00+00:00
+1208829,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,541,0,47303,Aihen Muñoz,https://media.api-sports.io/football/players/47303.png,90.0,6.7,D,2025-05-24T14:15:00+00:00
+1208829,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,541,0,32862,Takefusa Kubo,https://media.api-sports.io/football/players/32862.png,90.0,7.3,M,2025-05-24T14:15:00+00:00
+1208829,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,541,0,290106,Pablo Marín,https://media.api-sports.io/football/players/290106.png,45.0,6.2,M,2025-05-24T14:15:00+00:00
+1208829,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,541,0,183744,Beñat Turrientes,https://media.api-sports.io/football/players/183744.png,70.0,6.9,M,2025-05-24T14:15:00+00:00
+1208829,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,541,0,23,Sergio Gómez,https://media.api-sports.io/football/players/23.png,71.0,6.9,M,2025-05-24T14:15:00+00:00
+1208829,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,541,0,7332,Luka Sučić,https://media.api-sports.io/football/players/7332.png,84.0,7.2,F,2025-05-24T14:15:00+00:00
+1208829,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,541,0,402168,Arkaitz Mariezkurrena,https://media.api-sports.io/football/players/402168.png,71.0,6.6,F,2025-05-24T14:15:00+00:00
+1208829,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,541,0,182603,Jon Ander Olasagasti,https://media.api-sports.io/football/players/182603.png,45.0,6.6,M,2025-05-24T14:15:00+00:00
+1208829,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,541,0,47315,Martín Zubimendi,https://media.api-sports.io/football/players/47315.png,20.0,6.7,M,2025-05-24T14:15:00+00:00
+1208829,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,541,0,47317,Ander Barrenetxea,https://media.api-sports.io/football/players/47317.png,19.0,6.3,F,2025-05-24T14:15:00+00:00
+1208829,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,541,0,47323,Mikel Oyarzabal,https://media.api-sports.io/football/players/47323.png,19.0,6.6,F,2025-05-24T14:15:00+00:00
+1208813,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,538,1,47269,Álex Remiro,https://media.api-sports.io/football/players/47269.png,90.0,6.6,G,2025-05-13T18:00:00+00:00
+1208813,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,538,1,2202,Hamari Traoré,https://media.api-sports.io/football/players/2202.png,61.0,6.7,D,2025-05-13T18:00:00+00:00
+1208813,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,538,1,47298,Aritz Elustondo,https://media.api-sports.io/football/players/47298.png,90.0,6.6,D,2025-05-13T18:00:00+00:00
+1208813,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,538,1,47314,Igor Zubeldia,https://media.api-sports.io/football/players/47314.png,90.0,7.2,D,2025-05-13T18:00:00+00:00
+1208813,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,538,1,47303,Aihen Muñoz,https://media.api-sports.io/football/players/47303.png,78.0,6.7,D,2025-05-13T18:00:00+00:00
+1208813,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,538,1,47315,Martín Zubimendi,https://media.api-sports.io/football/players/47315.png,90.0,5.9,M,2025-05-13T18:00:00+00:00
+1208813,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,538,1,290106,Pablo Marín,https://media.api-sports.io/football/players/290106.png,90.0,7.2,M,2025-05-13T18:00:00+00:00
+1208813,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,538,1,32862,Takefusa Kubo,https://media.api-sports.io/football/players/32862.png,90.0,7.0,M,2025-05-13T18:00:00+00:00
+1208813,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,538,1,47440,Brais Méndez,https://media.api-sports.io/football/players/47440.png,77.0,6.9,M,2025-05-13T18:00:00+00:00
+1208813,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,538,1,23,Sergio Gómez,https://media.api-sports.io/football/players/23.png,61.0,7.3,M,2025-05-13T18:00:00+00:00
+1208813,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,538,1,47323,Mikel Oyarzabal,https://media.api-sports.io/football/players/47323.png,87.0,6.3,F,2025-05-13T18:00:00+00:00
+1208813,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,538,1,199044,Jon Aramburu,https://media.api-sports.io/football/players/199044.png,29.0,7.0,D,2025-05-13T18:00:00+00:00
+1208813,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,538,1,47317,Ander Barrenetxea,https://media.api-sports.io/football/players/47317.png,29.0,6.6,F,2025-05-13T18:00:00+00:00
+1208813,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,538,1,7332,Luka Sučić,https://media.api-sports.io/football/players/7332.png,13.0,7.0,M,2025-05-13T18:00:00+00:00
+1208813,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,538,1,182636,Javi López,https://media.api-sports.io/football/players/182636.png,12.0,6.7,D,2025-05-13T18:00:00+00:00
+1208813,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,538,1,402168,Arkaitz Mariezkurrena,https://media.api-sports.io/football/players/402168.png,11.0,6.7,F,2025-05-13T18:00:00+00:00
+1208813,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,548,0,18835,Vicente Guaita,https://media.api-sports.io/football/players/18835.png,90.0,7.9,G,2025-05-13T18:00:00+00:00
+1208813,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,548,0,384135,Javi Rodríguez,https://media.api-sports.io/football/players/384135.png,90.0,7.3,D,2025-05-13T18:00:00+00:00
+1208813,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,548,0,286559,Carlos Domínguez,https://media.api-sports.io/football/players/286559.png,90.0,7.3,D,2025-05-13T18:00:00+00:00
+1208813,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,548,0,21584,Mihailo Ristić,https://media.api-sports.io/football/players/21584.png,77.0,6.6,D,2025-05-13T18:00:00+00:00
+1208813,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,548,0,162712,Óscar Mingueza,https://media.api-sports.io/football/players/162712.png,90.0,6.6,M,2025-05-13T18:00:00+00:00
+1208813,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,548,0,47435,Fran Beltrán,https://media.api-sports.io/football/players/47435.png,89.0,6.9,M,2025-05-13T18:00:00+00:00
+1208813,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,548,0,162123,Ilaix Moriba,https://media.api-sports.io/football/players/162123.png,90.0,6.2,M,2025-05-13T18:00:00+00:00
+1208813,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,548,0,157988,Sergio Carreira,https://media.api-sports.io/football/players/157988.png,90.0,6.7,M,2025-05-13T18:00:00+00:00
+1208813,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,548,0,391822,Fer López,https://media.api-sports.io/football/players/391822.png,66.0,7.0,F,2025-05-13T18:00:00+00:00
+1208813,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,548,0,47348,Borja Iglesias,https://media.api-sports.io/football/players/47348.png,77.0,6.9,F,2025-05-13T18:00:00+00:00
+1208813,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,548,0,119213,Alfon González,https://media.api-sports.io/football/players/119213.png,77.0,7.3,F,2025-05-13T18:00:00+00:00
+1208813,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,548,0,320517,Pablo Durán,https://media.api-sports.io/football/players/320517.png,24.0,6.7,F,2025-05-13T18:00:00+00:00
+1208813,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,548,0,329722,Yoel Lago,https://media.api-sports.io/football/players/329722.png,13.0,6.9,D,2025-05-13T18:00:00+00:00
+1208813,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,548,0,128985,Iker Losada,https://media.api-sports.io/football/players/128985.png,13.0,6.7,M,2025-05-13T18:00:00+00:00
+1208813,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,548,0,269163,Williot Swedberg,https://media.api-sports.io/football/players/269163.png,13.0,6.7,M,2025-05-13T18:00:00+00:00
+1208814,720,Valladolid,https://media.api-sports.io/football/teams/720.png,547,1,169295,Karl Hein,https://media.api-sports.io/football/players/169295.png,90.0,7.3,G,2025-05-13T17:00:00+00:00
+1208814,720,Valladolid,https://media.api-sports.io/football/teams/720.png,547,1,2717,Anuar,https://media.api-sports.io/football/players/2717.png,90.0,7.2,D,2025-05-13T17:00:00+00:00
+1208814,720,Valladolid,https://media.api-sports.io/football/teams/720.png,547,1,439614,Iago Parente,https://media.api-sports.io/football/players/439614.png,72.0,6.7,D,2025-05-13T17:00:00+00:00
+1208814,720,Valladolid,https://media.api-sports.io/football/teams/720.png,547,1,48372,Eray Cömert,https://media.api-sports.io/football/players/48372.png,90.0,5.9,D,2025-05-13T17:00:00+00:00
+1208814,720,Valladolid,https://media.api-sports.io/football/teams/720.png,547,1,72048,Cenk Özkaçar,https://media.api-sports.io/football/players/72048.png,90.0,6.9,D,2025-05-13T17:00:00+00:00
+1208814,720,Valladolid,https://media.api-sports.io/football/teams/720.png,547,1,10561,Henrique,https://media.api-sports.io/football/players/10561.png,66.0,6.7,D,2025-05-13T17:00:00+00:00
+1208814,720,Valladolid,https://media.api-sports.io/football/teams/720.png,547,1,331004,Chuky,https://media.api-sports.io/football/players/331004.png,23.0,6.9,M,2025-05-13T17:00:00+00:00
+1208814,720,Valladolid,https://media.api-sports.io/football/teams/720.png,547,1,343205,Mario Martin,https://media.api-sports.io/football/players/343205.png,90.0,6.9,M,2025-05-13T17:00:00+00:00
+1208814,720,Valladolid,https://media.api-sports.io/football/teams/720.png,547,1,719,Florian Grillitsch,https://media.api-sports.io/football/players/719.png,66.0,6.9,M,2025-05-13T17:00:00+00:00
+1208814,720,Valladolid,https://media.api-sports.io/football/teams/720.png,547,1,264470,Raúl Moro,https://media.api-sports.io/football/players/264470.png,90.0,6.7,M,2025-05-13T17:00:00+00:00
+1208814,720,Valladolid,https://media.api-sports.io/football/teams/720.png,547,1,162028,Juanmi Latasa,https://media.api-sports.io/football/players/162028.png,66.0,6.7,F,2025-05-13T17:00:00+00:00
+1208814,720,Valladolid,https://media.api-sports.io/football/teams/720.png,547,1,46979,Iván Sánchez,https://media.api-sports.io/football/players/46979.png,67.0,7.3,M,2025-05-13T17:00:00+00:00
+1208814,720,Valladolid,https://media.api-sports.io/football/teams/720.png,547,1,431921,Adam Aznou,https://media.api-sports.io/football/players/431921.png,24.0,6.7,D,2025-05-13T17:00:00+00:00
+1208814,720,Valladolid,https://media.api-sports.io/football/teams/720.png,547,1,506254,Ibrahim Alani,https://media.api-sports.io/football/players/506254.png,24.0,6.3,M,2025-05-13T17:00:00+00:00
+1208814,720,Valladolid,https://media.api-sports.io/football/teams/720.png,547,1,8518,Mamadou Sylla,https://media.api-sports.io/football/players/8518.png,24.0,6.3,F,2025-05-13T17:00:00+00:00
+1208814,720,Valladolid,https://media.api-sports.io/football/teams/720.png,547,1,28373,Tamás Nikitscher,https://media.api-sports.io/football/players/28373.png,18.0,6.6,M,2025-05-13T17:00:00+00:00
+1208814,547,Girona,https://media.api-sports.io/football/teams/547.png,720,0,158,Paulo Gazzaniga,https://media.api-sports.io/football/players/158.png,90.0,7.9,G,2025-05-13T17:00:00+00:00
+1208814,547,Girona,https://media.api-sports.io/football/teams/547.png,720,0,283668,Arnau Martínez,https://media.api-sports.io/football/players/283668.png,45.0,7.0,D,2025-05-13T17:00:00+00:00
+1208814,547,Girona,https://media.api-sports.io/football/teams/547.png,720,0,47511,Juanpe,https://media.api-sports.io/football/players/47511.png,90.0,7.3,D,2025-05-13T17:00:00+00:00
+1208814,547,Girona,https://media.api-sports.io/football/teams/547.png,720,0,47334,David López,https://media.api-sports.io/football/players/47334.png,90.0,7.5,D,2025-05-13T17:00:00+00:00
+1208814,547,Girona,https://media.api-sports.io/football/teams/547.png,720,0,531,Daley Blind,https://media.api-sports.io/football/players/531.png,90.0,6.9,D,2025-05-13T17:00:00+00:00
+1208814,547,Girona,https://media.api-sports.io/football/teams/547.png,720,0,18949,Oriol Romeu,https://media.api-sports.io/football/players/18949.png,90.0,7.3,M,2025-05-13T17:00:00+00:00
+1208814,547,Girona,https://media.api-sports.io/football/teams/547.png,720,0,150,Arthur,https://media.api-sports.io/football/players/150.png,89.0,7.2,M,2025-05-13T17:00:00+00:00
+1208814,547,Girona,https://media.api-sports.io/football/teams/547.png,720,0,2182,Viktor Tsygankov,https://media.api-sports.io/football/players/2182.png,90.0,7.7,M,2025-05-13T17:00:00+00:00
+1208814,547,Girona,https://media.api-sports.io/football/teams/547.png,720,0,47520,Portu,https://media.api-sports.io/football/players/47520.png,63.0,6.7,M,2025-05-13T17:00:00+00:00
+1208814,547,Girona,https://media.api-sports.io/football/teams/547.png,720,0,281795,Yáser Asprilla,https://media.api-sports.io/football/players/281795.png,71.0,6.9,M,2025-05-13T17:00:00+00:00
+1208814,547,Girona,https://media.api-sports.io/football/teams/547.png,720,0,155,Abel Ruíz,https://media.api-sports.io/football/players/155.png,71.0,6.9,F,2025-05-13T17:00:00+00:00
+1208814,547,Girona,https://media.api-sports.io/football/teams/547.png,720,0,162434,Alejandro Francés,https://media.api-sports.io/football/players/162434.png,45.0,7.2,D,2025-05-13T17:00:00+00:00
+1208814,547,Girona,https://media.api-sports.io/football/teams/547.png,720,0,1700,Iván Martín,https://media.api-sports.io/football/players/1700.png,27.0,6.9,M,2025-05-13T17:00:00+00:00
+1208814,547,Girona,https://media.api-sports.io/football/teams/547.png,720,0,2617,Cristhian Stuani,https://media.api-sports.io/football/players/2617.png,19.0,7.2,F,2025-05-13T17:00:00+00:00
+1208814,547,Girona,https://media.api-sports.io/football/teams/547.png,720,0,83,Arnaut Danjuma,https://media.api-sports.io/football/players/83.png,19.0,6.5,F,2025-05-13T17:00:00+00:00
+1208802,543,Real Betis,https://media.api-sports.io/football/teams/543.png,727,1,18812,Adrián,https://media.api-sports.io/football/players/18812.png,90.0,7.6,G,2025-05-11T19:00:00+00:00
+1208802,543,Real Betis,https://media.api-sports.io/football/teams/543.png,727,1,47119,Aitor Ruibal,https://media.api-sports.io/football/players/47119.png,90.0,7.9,D,2025-05-11T19:00:00+00:00
+1208802,543,Real Betis,https://media.api-sports.io/football/teams/543.png,727,1,1561,Marc Bartra,https://media.api-sports.io/football/players/1561.png,90.0,7.3,D,2025-05-11T19:00:00+00:00
+1208802,543,Real Betis,https://media.api-sports.io/football/teams/543.png,727,1,195100,Natan,https://media.api-sports.io/football/players/195100.png,90.0,7.2,D,2025-05-11T19:00:00+00:00
+1208802,543,Real Betis,https://media.api-sports.io/football/teams/543.png,727,1,20600,Romain Perraud,https://media.api-sports.io/football/players/20600.png,90.0,6.9,D,2025-05-11T19:00:00+00:00
+1208802,543,Real Betis,https://media.api-sports.io/football/teams/543.png,727,1,1580,William Carvalho,https://media.api-sports.io/football/players/1580.png,57.0,7.3,M,2025-05-11T19:00:00+00:00
+1208802,543,Real Betis,https://media.api-sports.io/football/teams/543.png,727,1,286084,Sergi Altimira,https://media.api-sports.io/football/players/286084.png,79.0,6.9,M,2025-05-11T19:00:00+00:00
+1208802,543,Real Betis,https://media.api-sports.io/football/teams/543.png,727,1,443162,Jesús Rodriguez,https://media.api-sports.io/football/players/443162.png,56.0,6.2,M,2025-05-11T19:00:00+00:00
+1208802,543,Real Betis,https://media.api-sports.io/football/teams/543.png,727,1,1578,Giovani Lo Celso,https://media.api-sports.io/football/players/1578.png,45.0,6.9,M,2025-05-11T19:00:00+00:00
+1208802,543,Real Betis,https://media.api-sports.io/football/teams/543.png,727,1,181421,Abdessamad Ezzalzouli,https://media.api-sports.io/football/players/181421.png,79.0,6.6,M,2025-05-11T19:00:00+00:00
+1208802,543,Real Betis,https://media.api-sports.io/football/teams/543.png,727,1,47582,Cucho Hernández,https://media.api-sports.io/football/players/47582.png,90.0,7.6,F,2025-05-11T19:00:00+00:00
+1208802,543,Real Betis,https://media.api-sports.io/football/teams/543.png,727,1,745,Isco,https://media.api-sports.io/football/players/745.png,45.0,7.5,M,2025-05-11T19:00:00+00:00
+1208802,543,Real Betis,https://media.api-sports.io/football/teams/543.png,727,1,9971,Antony,https://media.api-sports.io/football/players/9971.png,34.0,6.9,F,2025-05-11T19:00:00+00:00
+1208802,543,Real Betis,https://media.api-sports.io/football/teams/543.png,727,1,1697,Pablo Fornals,https://media.api-sports.io/football/players/1697.png,33.0,6.6,M,2025-05-11T19:00:00+00:00
+1208802,543,Real Betis,https://media.api-sports.io/football/teams/543.png,727,1,133185,Johnny Cardoso,https://media.api-sports.io/football/players/133185.png,11.0,6.5,M,2025-05-11T19:00:00+00:00
+1208802,543,Real Betis,https://media.api-sports.io/football/teams/543.png,727,1,443163,Pablo García,https://media.api-sports.io/football/players/443163.png,11.0,6.7,F,2025-05-11T19:00:00+00:00
+1208802,727,Osasuna,https://media.api-sports.io/football/teams/727.png,543,0,46646,Sergio Herrera,https://media.api-sports.io/football/players/46646.png,90.0,6.9,G,2025-05-11T19:00:00+00:00
+1208802,727,Osasuna,https://media.api-sports.io/football/teams/727.png,543,0,182181,Jesús Areso,https://media.api-sports.io/football/players/182181.png,89.0,6.9,D,2025-05-11T19:00:00+00:00
+1208802,727,Osasuna,https://media.api-sports.io/football/teams/727.png,543,0,279822,Flavien Boyomo,https://media.api-sports.io/football/players/279822.png,90.0,6.9,D,2025-05-11T19:00:00+00:00
+1208802,727,Osasuna,https://media.api-sports.io/football/teams/727.png,543,0,47533,Alejandro Catena,https://media.api-sports.io/football/players/47533.png,90.0,7.3,D,2025-05-11T19:00:00+00:00
+1208802,727,Osasuna,https://media.api-sports.io/football/teams/727.png,543,0,46967,Juan Cruz,https://media.api-sports.io/football/players/46967.png,90.0,6.9,D,2025-05-11T19:00:00+00:00
+1208802,727,Osasuna,https://media.api-sports.io/football/teams/727.png,543,0,139001,Pablo Ibáñez,https://media.api-sports.io/football/players/139001.png,79.0,7.2,M,2025-05-11T19:00:00+00:00
+1208802,727,Osasuna,https://media.api-sports.io/football/teams/727.png,543,0,1825,Lucas Torró,https://media.api-sports.io/football/players/1825.png,90.0,6.9,M,2025-05-11T19:00:00+00:00
+1208802,727,Osasuna,https://media.api-sports.io/football/teams/727.png,543,0,46658,Rubén García,https://media.api-sports.io/football/players/46658.png,57.0,7.2,M,2025-05-11T19:00:00+00:00
+1208802,727,Osasuna,https://media.api-sports.io/football/teams/727.png,543,0,67939,Aimar Oroz,https://media.api-sports.io/football/players/67939.png,90.0,7.5,M,2025-05-11T19:00:00+00:00
+1208802,727,Osasuna,https://media.api-sports.io/football/teams/727.png,543,0,286639,Bryan Zaragoza,https://media.api-sports.io/football/players/286639.png,89.0,6.7,M,2025-05-11T19:00:00+00:00
+1208802,727,Osasuna,https://media.api-sports.io/football/teams/727.png,543,0,46746,Ante Budimir,https://media.api-sports.io/football/players/46746.png,79.0,7.2,F,2025-05-11T19:00:00+00:00
+1208802,727,Osasuna,https://media.api-sports.io/football/teams/727.png,543,0,47391,Rubén Peña,https://media.api-sports.io/football/players/47391.png,33.0,6.6,D,2025-05-11T19:00:00+00:00
+1208802,727,Osasuna,https://media.api-sports.io/football/teams/727.png,543,0,182621,Iker Muñoz,https://media.api-sports.io/football/players/182621.png,11.0,6.3,M,2025-05-11T19:00:00+00:00
+1208802,727,Osasuna,https://media.api-sports.io/football/teams/727.png,543,0,146751,Raúl García de Haro,https://media.api-sports.io/football/players/146751.png,11.0,6.2,F,2025-05-11T19:00:00+00:00
+1208802,727,Osasuna,https://media.api-sports.io/football/teams/727.png,543,0,46667,Kike Barja,https://media.api-sports.io/football/players/46667.png,8.0,6.9,F,2025-05-11T19:00:00+00:00
+1208802,727,Osasuna,https://media.api-sports.io/football/teams/727.png,543,0,47419,José Manuel Arnáiz,https://media.api-sports.io/football/players/47419.png,8.0,6.9,F,2025-05-11T19:00:00+00:00
+1208808,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,542,1,47270,Unai Simón,https://media.api-sports.io/football/players/47270.png,90.0,7.0,G,2025-05-11T16:30:00+00:00
+1208808,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,542,1,47275,Óscar de Marcos,https://media.api-sports.io/football/players/47275.png,90.0,7.7,D,2025-05-11T16:30:00+00:00
+1208808,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,542,1,47278,Daniel Vivian,https://media.api-sports.io/football/players/47278.png,90.0,7.5,D,2025-05-11T16:30:00+00:00
+1208808,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,542,1,47271,Yeray Álvarez,https://media.api-sports.io/football/players/47271.png,90.0,7.2,D,2025-05-11T16:30:00+00:00
+1208808,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,542,1,47273,Yuri Berchiche,https://media.api-sports.io/football/players/47273.png,90.0,7.9,D,2025-05-11T16:30:00+00:00
+1208808,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,542,1,47007,Iñigo Ruiz de Galarreta,https://media.api-sports.io/football/players/47007.png,89.0,7.3,M,2025-05-11T16:30:00+00:00
+1208808,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,542,1,383780,Mikel Jauregizar,https://media.api-sports.io/football/players/383780.png,90.0,7.7,M,2025-05-11T16:30:00+00:00
+1208808,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,542,1,440413,Aingeru Olabarrieta,https://media.api-sports.io/football/players/440413.png,55.0,6.5,M,2025-05-11T16:30:00+00:00
+1208808,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,542,1,437643,Peio Canales,https://media.api-sports.io/football/players/437643.png,67.0,7.3,M,2025-05-11T16:30:00+00:00
+1208808,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,542,1,190489,Álvaro Djaló,https://media.api-sports.io/football/players/190489.png,55.0,6.2,M,2025-05-11T16:30:00+00:00
+1208808,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,542,1,287680,Maroan Sannadi,https://media.api-sports.io/football/players/287680.png,89.0,6.6,F,2025-05-11T16:30:00+00:00
+1208808,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,542,1,332308,Unai Gómez,https://media.api-sports.io/football/players/332308.png,35.0,6.5,M,2025-05-11T16:30:00+00:00
+1208808,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,542,1,47291,Gorka Guruzeta,https://media.api-sports.io/football/players/47291.png,35.0,6.9,F,2025-05-11T16:30:00+00:00
+1208808,531,Athletic Club,https://media.api-sports.io/football/teams/531.png,542,1,128398,Oihan Sancet,https://media.api-sports.io/football/players/128398.png,23.0,6.7,M,2025-05-11T16:30:00+00:00
+1208808,542,Alaves,https://media.api-sports.io/football/teams/542.png,531,0,47353,Antonio Sivera,https://media.api-sports.io/football/players/47353.png,90.0,6.9,G,2025-05-11T16:30:00+00:00
+1208808,542,Alaves,https://media.api-sports.io/football/teams/542.png,531,0,311773,Santiago Mouriño,https://media.api-sports.io/football/players/311773.png,90.0,7.2,D,2025-05-11T16:30:00+00:00
+1208808,542,Alaves,https://media.api-sports.io/football/teams/542.png,531,0,6638,Facundo Garcés,https://media.api-sports.io/football/players/6638.png,90.0,6.5,D,2025-05-11T16:30:00+00:00
+1208808,542,Alaves,https://media.api-sports.io/football/teams/542.png,531,0,70476,Moussa Diarra,https://media.api-sports.io/football/players/70476.png,90.0,6.2,D,2025-05-11T16:30:00+00:00
+1208808,542,Alaves,https://media.api-sports.io/football/teams/542.png,531,0,64309,Manuel Sánchez,https://media.api-sports.io/football/players/64309.png,72.0,6.7,D,2025-05-11T16:30:00+00:00
+1208808,542,Alaves,https://media.api-sports.io/football/teams/542.png,531,0,162686,Antonio Blanco,https://media.api-sports.io/football/players/162686.png,77.0,6.7,M,2025-05-11T16:30:00+00:00
+1208808,542,Alaves,https://media.api-sports.io/football/teams/542.png,531,0,187214,Carlos Vicente,https://media.api-sports.io/football/players/187214.png,90.0,6.7,M,2025-05-11T16:30:00+00:00
+1208808,542,Alaves,https://media.api-sports.io/football/teams/542.png,531,0,104821,Jon Guridi,https://media.api-sports.io/football/players/104821.png,87.0,6.6,M,2025-05-11T16:30:00+00:00
+1208808,542,Alaves,https://media.api-sports.io/football/teams/542.png,531,0,47309,Ander Guevara,https://media.api-sports.io/football/players/47309.png,90.0,6.3,M,2025-05-11T16:30:00+00:00
+1208808,542,Alaves,https://media.api-sports.io/football/teams/542.png,531,0,143,Carles Aleñá,https://media.api-sports.io/football/players/143.png,87.0,6.9,M,2025-05-11T16:30:00+00:00
+1208808,542,Alaves,https://media.api-sports.io/football/teams/542.png,531,0,47181,Toni Martínez,https://media.api-sports.io/football/players/47181.png,72.0,6.7,F,2025-05-11T16:30:00+00:00
+1208808,542,Alaves,https://media.api-sports.io/football/teams/542.png,531,0,6233,Nahuel Tenaglia,https://media.api-sports.io/football/players/6233.png,18.0,6.6,D,2025-05-11T16:30:00+00:00
+1208808,542,Alaves,https://media.api-sports.io/football/teams/542.png,531,0,104853,Asier Villalibre,https://media.api-sports.io/football/players/104853.png,18.0,6.9,F,2025-05-11T16:30:00+00:00
+1208808,542,Alaves,https://media.api-sports.io/football/teams/542.png,531,0,324750,Carlos Martín,https://media.api-sports.io/football/players/324750.png,13.0,6.3,F,2025-05-11T16:30:00+00:00
+1208808,542,Alaves,https://media.api-sports.io/football/teams/542.png,531,0,6085,Carlos Benavídez,https://media.api-sports.io/football/players/6085.png,12.0,6.6,M,2025-05-11T16:30:00+00:00
+1208808,542,Alaves,https://media.api-sports.io/football/teams/542.png,531,0,411702,Pau Cabanes De La Torre,https://media.api-sports.io/football/players/411702.png,12.0,6.5,F,2025-05-11T16:30:00+00:00
+1208801,529,Barcelona,https://media.api-sports.io/football/teams/529.png,541,1,851,Wojciech Szczęsny,https://media.api-sports.io/football/players/851.png,90.0,6.5,G,2025-05-11T14:15:00+00:00
+1208801,529,Barcelona,https://media.api-sports.io/football/teams/529.png,541,1,619,Eric García,https://media.api-sports.io/football/players/619.png,77.0,7.2,D,2025-05-11T14:15:00+00:00
+1208801,529,Barcelona,https://media.api-sports.io/football/teams/529.png,541,1,396623,Pau Cubarsí,https://media.api-sports.io/football/players/396623.png,57.0,6.5,D,2025-05-11T14:15:00+00:00
+1208801,529,Barcelona,https://media.api-sports.io/football/teams/529.png,541,1,2670,Iñigo Martínez,https://media.api-sports.io/football/players/2670.png,90.0,6.2,D,2025-05-11T14:15:00+00:00
+1208801,529,Barcelona,https://media.api-sports.io/football/teams/529.png,541,1,181701,Gerard Martín,https://media.api-sports.io/football/players/181701.png,57.0,6.5,D,2025-05-11T14:15:00+00:00
+1208801,529,Barcelona,https://media.api-sports.io/football/teams/529.png,541,1,538,Frenkie de Jong,https://media.api-sports.io/football/players/538.png,90.0,7.2,M,2025-05-11T14:15:00+00:00
+1208801,529,Barcelona,https://media.api-sports.io/football/teams/529.png,541,1,133609,Pedri,https://media.api-sports.io/football/players/133609.png,90.0,7.6,M,2025-05-11T14:15:00+00:00
+1208801,529,Barcelona,https://media.api-sports.io/football/teams/529.png,541,1,386828,Lamine Yamal,https://media.api-sports.io/football/players/386828.png,90.0,9.2,M,2025-05-11T14:15:00+00:00
+1208801,529,Barcelona,https://media.api-sports.io/football/teams/529.png,541,1,1323,Dani Olmo,https://media.api-sports.io/football/players/1323.png,77.0,6.3,M,2025-05-11T14:15:00+00:00
+1208801,529,Barcelona,https://media.api-sports.io/football/teams/529.png,541,1,1496,Raphinha,https://media.api-sports.io/football/players/1496.png,90.0,7.3,M,2025-05-11T14:15:00+00:00
+1208801,529,Barcelona,https://media.api-sports.io/football/teams/529.png,541,1,931,Ferran Torres,https://media.api-sports.io/football/players/931.png,89.0,8.0,F,2025-05-11T14:15:00+00:00
+1208801,529,Barcelona,https://media.api-sports.io/football/teams/529.png,541,1,161928,Alejandro Balde,https://media.api-sports.io/football/players/161928.png,33.0,6.7,D,2025-05-11T14:15:00+00:00
+1208801,529,Barcelona,https://media.api-sports.io/football/teams/529.png,541,1,2282,Andreas Christensen,https://media.api-sports.io/football/players/2282.png,33.0,6.7,D,2025-05-11T14:15:00+00:00
+1208801,529,Barcelona,https://media.api-sports.io/football/teams/529.png,541,1,386859,Hector Fort,https://media.api-sports.io/football/players/386859.png,13.0,6.6,D,2025-05-11T14:15:00+00:00
+1208801,529,Barcelona,https://media.api-sports.io/football/teams/529.png,541,1,340626,Fermín López,https://media.api-sports.io/football/players/340626.png,13.0,6.3,M,2025-05-11T14:15:00+00:00
+1208801,529,Barcelona,https://media.api-sports.io/football/teams/529.png,541,1,296667,Gavi,https://media.api-sports.io/football/players/296667.png,9.0,6.6,M,2025-05-11T14:15:00+00:00
+1208801,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,529,0,730,Thibaut Courtois,https://media.api-sports.io/football/players/730.png,90.0,6.7,G,2025-05-11T14:15:00+00:00
+1208801,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,529,0,757,Lucas Vázquez,https://media.api-sports.io/football/players/757.png,84.0,5.9,D,2025-05-11T14:15:00+00:00
+1208801,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,529,0,1271,Aurélien Tchouaméni,https://media.api-sports.io/football/players/1271.png,90.0,6.9,D,2025-05-11T14:15:00+00:00
+1208801,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,529,0,341640,Raúl Asencio,https://media.api-sports.io/football/players/341640.png,90.0,6.3,D,2025-05-11T14:15:00+00:00
+1208801,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,529,0,736,Fran García,https://media.api-sports.io/football/players/736.png,90.0,6.5,D,2025-05-11T14:15:00+00:00
+1208801,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,529,0,748,Dani Ceballos,https://media.api-sports.io/football/players/748.png,45.0,5.5,M,2025-05-11T14:15:00+00:00
+1208801,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,529,0,756,Federico Valverde,https://media.api-sports.io/football/players/756.png,90.0,6.7,M,2025-05-11T14:15:00+00:00
+1208801,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,529,0,291964,Arda Güler,https://media.api-sports.io/football/players/291964.png,45.0,6.3,M,2025-05-11T14:15:00+00:00
+1208801,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,529,0,129718,Jude Bellingham,https://media.api-sports.io/football/players/129718.png,90.0,6.7,M,2025-05-11T14:15:00+00:00
+1208801,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,529,0,762,Vinícius Júnior,https://media.api-sports.io/football/players/762.png,88.0,7.6,M,2025-05-11T14:15:00+00:00
+1208801,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,529,0,278,Kylian Mbappé,https://media.api-sports.io/football/players/278.png,90.0,8.9,F,2025-05-11T14:15:00+00:00
+1208801,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,529,0,754,Luka Modrić,https://media.api-sports.io/football/players/754.png,45.0,7.3,M,2025-05-11T14:15:00+00:00
+1208801,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,529,0,744,Brahim Díaz,https://media.api-sports.io/football/players/744.png,45.0,6.9,M,2025-05-11T14:15:00+00:00
+1208801,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,529,0,377122,Endrick,https://media.api-sports.io/football/players/377122.png,14.0,6.2,F,2025-05-11T14:15:00+00:00
+1208801,541,Real Madrid,https://media.api-sports.io/football/teams/541.png,529,0,338751,Victor Muñoz,https://media.api-sports.io/football/players/338751.png,10.0,6.2,F,2025-05-11T14:15:00+00:00
+1212944,537,Leganes,https://media.api-sports.io/football/teams/537.png,540,1,2813,Marko Dmitrović,https://media.api-sports.io/football/players/2813.png,90.0,7.6,G,2025-05-11T12:00:00+00:00
+1212944,537,Leganes,https://media.api-sports.io/football/teams/537.png,540,1,21701,Valentin Rosier,https://media.api-sports.io/football/players/21701.png,90.0,6.5,D,2025-05-11T12:00:00+00:00
+1212944,537,Leganes,https://media.api-sports.io/football/teams/537.png,540,1,47080,Jorge Sáenz,https://media.api-sports.io/football/players/47080.png,90.0,7.2,D,2025-05-11T12:00:00+00:00
+1212944,537,Leganes,https://media.api-sports.io/football/teams/537.png,540,1,2433,Renato Tapia,https://media.api-sports.io/football/players/2433.png,90.0,6.9,D,2025-05-11T12:00:00+00:00
+1212944,537,Leganes,https://media.api-sports.io/football/teams/537.png,540,1,162122,Adrià Altimira,https://media.api-sports.io/football/players/162122.png,90.0,6.9,M,2025-05-11T12:00:00+00:00
+1212944,537,Leganes,https://media.api-sports.io/football/teams/537.png,540,1,302051,Seydouba Cisse,https://media.api-sports.io/football/players/302051.png,90.0,7.3,M,2025-05-11T12:00:00+00:00
+1212944,537,Leganes,https://media.api-sports.io/football/teams/537.png,540,1,41976,Yvan Neyou,https://media.api-sports.io/football/players/41976.png,80.0,6.9,M,2025-05-11T12:00:00+00:00
+1212944,537,Leganes,https://media.api-sports.io/football/teams/537.png,540,1,513776,Yan Diomande,https://media.api-sports.io/football/players/513776.png,90.0,7.3,M,2025-05-11T12:00:00+00:00
+1212944,537,Leganes,https://media.api-sports.io/football/teams/537.png,540,1,1708,Dani Raba,https://media.api-sports.io/football/players/1708.png,74.0,8.9,F,2025-05-11T12:00:00+00:00
+1212944,537,Leganes,https://media.api-sports.io/football/teams/537.png,540,1,184481,Diego Garcia,https://media.api-sports.io/football/players/184481.png,89.0,6.6,F,2025-05-11T12:00:00+00:00
+1212944,537,Leganes,https://media.api-sports.io/football/teams/537.png,540,1,2060,Munir El Haddadi,https://media.api-sports.io/football/players/2060.png,89.0,7.2,F,2025-05-11T12:00:00+00:00
+1212944,537,Leganes,https://media.api-sports.io/football/teams/537.png,540,1,47416,Óscar Rodríguez,https://media.api-sports.io/football/players/47416.png,16.0,6.5,M,2025-05-11T12:00:00+00:00
+1212944,537,Leganes,https://media.api-sports.io/football/teams/537.png,540,1,47361,Darko Brašanac,https://media.api-sports.io/football/players/47361.png,10.0,6.5,M,2025-05-11T12:00:00+00:00
+1212944,537,Leganes,https://media.api-sports.io/football/teams/537.png,540,1,47494,Miguel de la Fuente,https://media.api-sports.io/football/players/47494.png,10.0,6.3,F,2025-05-11T12:00:00+00:00
+1212944,537,Leganes,https://media.api-sports.io/football/teams/537.png,540,1,162944,Duk,https://media.api-sports.io/football/players/162944.png,10.0,6.3,F,2025-05-11T12:00:00+00:00
+1212944,540,Espanyol,https://media.api-sports.io/football/teams/540.png,537,0,182718,Joan García,https://media.api-sports.io/football/players/182718.png,90.0,6.6,G,2025-05-11T12:00:00+00:00
+1212944,540,Espanyol,https://media.api-sports.io/football/teams/540.png,537,0,182674,Jofre Carreras,https://media.api-sports.io/football/players/182674.png,62.0,6.0,D,2025-05-11T12:00:00+00:00
+1212944,540,Espanyol,https://media.api-sports.io/football/teams/540.png,537,0,47478,Fernando Calero,https://media.api-sports.io/football/players/47478.png,45.0,6.2,D,2025-05-11T12:00:00+00:00
+1212944,540,Espanyol,https://media.api-sports.io/football/teams/540.png,537,0,30924,Marash Kumbulla,https://media.api-sports.io/football/players/30924.png,90.0,6.7,D,2025-05-11T12:00:00+00:00
+1212944,540,Espanyol,https://media.api-sports.io/football/teams/540.png,537,0,47249,Leandro Cabrera,https://media.api-sports.io/football/players/47249.png,90.0,6.9,D,2025-05-11T12:00:00+00:00
+1212944,540,Espanyol,https://media.api-sports.io/football/teams/540.png,537,0,184420,Carlos Romero,https://media.api-sports.io/football/players/184420.png,90.0,6.7,D,2025-05-11T12:00:00+00:00
+1212944,540,Espanyol,https://media.api-sports.io/football/teams/540.png,537,0,46799,Edu Expósito,https://media.api-sports.io/football/players/46799.png,90.0,6.9,M,2025-05-11T12:00:00+00:00
+1212944,540,Espanyol,https://media.api-sports.io/football/teams/540.png,537,0,183699,Urko González,https://media.api-sports.io/football/players/183699.png,90.0,6.3,M,2025-05-11T12:00:00+00:00
+1212944,540,Espanyol,https://media.api-sports.io/football/teams/540.png,537,0,1234,Alex Král,https://media.api-sports.io/football/players/1234.png,45.0,6.3,M,2025-05-11T12:00:00+00:00
+1212944,540,Espanyol,https://media.api-sports.io/football/teams/540.png,537,0,47349,Javi Puado,https://media.api-sports.io/football/players/47349.png,72.0,6.3,M,2025-05-11T12:00:00+00:00
+1212944,540,Espanyol,https://media.api-sports.io/football/teams/540.png,537,0,312990,Roberto Fernández,https://media.api-sports.io/football/players/312990.png,72.0,6.5,F,2025-05-11T12:00:00+00:00
+1212944,540,Espanyol,https://media.api-sports.io/football/teams/540.png,537,0,46709,Álvaro Tejero,https://media.api-sports.io/football/players/46709.png,45.0,6.9,D,2025-05-11T12:00:00+00:00
+1212944,540,Espanyol,https://media.api-sports.io/football/teams/540.png,537,0,311344,Alejo Véliz,https://media.api-sports.io/football/players/311344.png,45.0,6.3,F,2025-05-11T12:00:00+00:00
+1212944,540,Espanyol,https://media.api-sports.io/football/teams/540.png,537,0,297742,Antoniu Roca,https://media.api-sports.io/football/players/297742.png,28.0,6.6,F,2025-05-11T12:00:00+00:00
+1212944,540,Espanyol,https://media.api-sports.io/football/teams/540.png,537,0,47398,Pere Milla,https://media.api-sports.io/football/players/47398.png,18.0,7.2,M,2025-05-11T12:00:00+00:00
+1212944,540,Espanyol,https://media.api-sports.io/football/teams/540.png,537,0,128478,Walid Cheddira,https://media.api-sports.io/football/players/128478.png,18.0,7.2,F,2025-05-11T12:00:00+00:00
+1208800,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,548,1,29,Jan Oblak,https://media.api-sports.io/football/players/29.png,90.0,7.0,G,2025-05-10T19:00:00+00:00
+1208800,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,548,1,753,Marcos Llorente,https://media.api-sports.io/football/players/753.png,90.0,7.6,D,2025-05-10T19:00:00+00:00
+1208800,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,548,1,31,José María Giménez,https://media.api-sports.io/football/players/31.png,90.0,7.6,D,2025-05-10T19:00:00+00:00
+1208800,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,548,1,47301,Robin Le Normand,https://media.api-sports.io/football/players/47301.png,90.0,7.2,D,2025-05-10T19:00:00+00:00
+1208800,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,548,1,47566,Javi Galán,https://media.api-sports.io/football/players/47566.png,90.0,7.3,D,2025-05-10T19:00:00+00:00
+1208800,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,548,1,336594,Pablo Barrios,https://media.api-sports.io/football/players/336594.png,55.0,7.3,M,2025-05-10T19:00:00+00:00
+1208800,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,548,1,2472,Rodrigo de Paul,https://media.api-sports.io/football/players/2472.png,74.0,7.0,M,2025-05-10T19:00:00+00:00
+1208800,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,548,1,50,Koke,https://media.api-sports.io/football/players/50.png,90.0,6.9,M,2025-05-10T19:00:00+00:00
+1208800,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,548,1,323935,Giuliano Simeone,https://media.api-sports.io/football/players/323935.png,68.0,7.3,F,2025-05-10T19:00:00+00:00
+1208800,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,548,1,8492,Alexander Sørloth,https://media.api-sports.io/football/players/8492.png,74.0,10.0,F,2025-05-10T19:00:00+00:00
+1208800,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,548,1,126936,Samuel Lino,https://media.api-sports.io/football/players/126936.png,68.0,7.3,F,2025-05-10T19:00:00+00:00
+1208800,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,548,1,6503,Nahuel Molina,https://media.api-sports.io/football/players/6503.png,35.0,6.9,D,2025-05-10T19:00:00+00:00
+1208800,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,548,1,45,Thomas Lemar,https://media.api-sports.io/football/players/45.png,22.0,6.9,M,2025-05-10T19:00:00+00:00
+1208800,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,548,1,56,Antoine Griezmann,https://media.api-sports.io/football/players/56.png,22.0,6.7,F,2025-05-10T19:00:00+00:00
+1208800,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,548,1,67972,Conor Gallagher,https://media.api-sports.io/football/players/67972.png,16.0,6.6,M,2025-05-10T19:00:00+00:00
+1208800,530,Atletico Madrid,https://media.api-sports.io/football/teams/530.png,548,1,53,Ángel Correa,https://media.api-sports.io/football/players/53.png,16.0,6.7,F,2025-05-10T19:00:00+00:00
+1208800,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,530,0,47269,Álex Remiro,https://media.api-sports.io/football/players/47269.png,90.0,6.2,G,2025-05-10T19:00:00+00:00
+1208800,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,530,0,199044,Jon Aramburu,https://media.api-sports.io/football/players/199044.png,90.0,6.0,D,2025-05-10T19:00:00+00:00
+1208800,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,530,0,405073,Jon Martin,https://media.api-sports.io/football/players/405073.png,90.0,6.7,D,2025-05-10T19:00:00+00:00
+1208800,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,530,0,47298,Aritz Elustondo,https://media.api-sports.io/football/players/47298.png,90.0,6.2,D,2025-05-10T19:00:00+00:00
+1208800,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,530,0,182636,Javi López,https://media.api-sports.io/football/players/182636.png,90.0,5.9,D,2025-05-10T19:00:00+00:00
+1208800,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,530,0,47315,Martín Zubimendi,https://media.api-sports.io/football/players/47315.png,73.0,6.6,M,2025-05-10T19:00:00+00:00
+1208800,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,530,0,32862,Takefusa Kubo,https://media.api-sports.io/football/players/32862.png,45.0,7.0,M,2025-05-10T19:00:00+00:00
+1208800,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,530,0,7332,Luka Sučić,https://media.api-sports.io/football/players/7332.png,61.0,6.5,M,2025-05-10T19:00:00+00:00
+1208800,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,530,0,290106,Pablo Marín,https://media.api-sports.io/football/players/290106.png,90.0,6.3,M,2025-05-10T19:00:00+00:00
+1208800,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,530,0,47317,Ander Barrenetxea,https://media.api-sports.io/football/players/47317.png,54.0,6.0,M,2025-05-10T19:00:00+00:00
+1208800,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,530,0,47323,Mikel Oyarzabal,https://media.api-sports.io/football/players/47323.png,45.0,6.6,F,2025-05-10T19:00:00+00:00
+1208800,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,530,0,47314,Igor Zubeldia,https://media.api-sports.io/football/players/47314.png,45.0,6.6,D,2025-05-10T19:00:00+00:00
+1208800,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,530,0,402168,Arkaitz Mariezkurrena,https://media.api-sports.io/football/players/402168.png,45.0,6.7,F,2025-05-10T19:00:00+00:00
+1208800,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,530,0,23,Sergio Gómez,https://media.api-sports.io/football/players/23.png,36.0,6.9,M,2025-05-10T19:00:00+00:00
+1208800,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,530,0,183744,Beñat Turrientes,https://media.api-sports.io/football/players/183744.png,29.0,6.7,M,2025-05-10T19:00:00+00:00
+1208800,548,Real Sociedad,https://media.api-sports.io/football/teams/548.png,530,0,182603,Jon Ander Olasagasti,https://media.api-sports.io/football/players/182603.png,17.0,6.6,M,2025-05-10T19:00:00+00:00
+1208804,547,Girona,https://media.api-sports.io/football/teams/547.png,533,1,158,Paulo Gazzaniga,https://media.api-sports.io/football/players/158.png,90.0,7.3,G,2025-05-10T16:30:00+00:00
+1208804,547,Girona,https://media.api-sports.io/football/teams/547.png,533,1,283668,Arnau Martínez,https://media.api-sports.io/football/players/283668.png,90.0,7.2,D,2025-05-10T16:30:00+00:00
+1208804,547,Girona,https://media.api-sports.io/football/teams/547.png,533,1,47334,David López,https://media.api-sports.io/football/players/47334.png,89.0,7.3,D,2025-05-10T16:30:00+00:00
+1208804,547,Girona,https://media.api-sports.io/football/teams/547.png,533,1,66407,Ladislav Krejčí,https://media.api-sports.io/football/players/66407.png,90.0,6.6,D,2025-05-10T16:30:00+00:00
+1208804,547,Girona,https://media.api-sports.io/football/teams/547.png,533,1,531,Daley Blind,https://media.api-sports.io/football/players/531.png,90.0,6.9,D,2025-05-10T16:30:00+00:00
+1208804,547,Girona,https://media.api-sports.io/football/teams/547.png,533,1,1700,Iván Martín,https://media.api-sports.io/football/players/1700.png,89.0,6.9,M,2025-05-10T16:30:00+00:00
+1208804,547,Girona,https://media.api-sports.io/football/teams/547.png,533,1,150,Arthur,https://media.api-sports.io/football/players/150.png,90.0,7.2,M,2025-05-10T16:30:00+00:00
+1208804,547,Girona,https://media.api-sports.io/football/teams/547.png,533,1,2449,Yangel Herrera,https://media.api-sports.io/football/players/2449.png,90.0,7.2,M,2025-05-10T16:30:00+00:00
+1208804,547,Girona,https://media.api-sports.io/football/teams/547.png,533,1,2182,Viktor Tsygankov,https://media.api-sports.io/football/players/2182.png,66.0,6.7,F,2025-05-10T16:30:00+00:00
+1208804,547,Girona,https://media.api-sports.io/football/teams/547.png,533,1,2617,Cristhian Stuani,https://media.api-sports.io/football/players/2617.png,73.0,6.7,F,2025-05-10T16:30:00+00:00
+1208804,547,Girona,https://media.api-sports.io/football/teams/547.png,533,1,47520,Portu,https://media.api-sports.io/football/players/47520.png,73.0,6.5,F,2025-05-10T16:30:00+00:00
+1208804,547,Girona,https://media.api-sports.io/football/teams/547.png,533,1,281795,Yáser Asprilla,https://media.api-sports.io/football/players/281795.png,24.0,6.9,M,2025-05-10T16:30:00+00:00
+1208804,547,Girona,https://media.api-sports.io/football/teams/547.png,533,1,162434,Alejandro Francés,https://media.api-sports.io/football/players/162434.png,17.0,6.5,D,2025-05-10T16:30:00+00:00
+1208804,547,Girona,https://media.api-sports.io/football/teams/547.png,533,1,109564,Bojan Miovski,https://media.api-sports.io/football/players/109564.png,17.0,6.7,F,2025-05-10T16:30:00+00:00
+1208804,533,Villarreal,https://media.api-sports.io/football/teams/533.png,547,0,278619,Luiz Júnior,https://media.api-sports.io/football/players/278619.png,90.0,6.9,G,2025-05-10T16:30:00+00:00
+1208804,533,Villarreal,https://media.api-sports.io/football/teams/533.png,547,0,435552,Pau Navarro,https://media.api-sports.io/football/players/435552.png,73.0,7.0,D,2025-05-10T16:30:00+00:00
+1208804,533,Villarreal,https://media.api-sports.io/football/teams/533.png,547,0,166,Juan Foyth,https://media.api-sports.io/football/players/166.png,90.0,7.3,D,2025-05-10T16:30:00+00:00
+1208804,533,Villarreal,https://media.api-sports.io/football/teams/533.png,547,0,21997,Logan Costa,https://media.api-sports.io/football/players/21997.png,90.0,7.2,D,2025-05-10T16:30:00+00:00
+1208804,533,Villarreal,https://media.api-sports.io/football/teams/533.png,547,0,70500,Sergi Cardona,https://media.api-sports.io/football/players/70500.png,74.0,7.2,D,2025-05-10T16:30:00+00:00
+1208804,533,Villarreal,https://media.api-sports.io/football/teams/533.png,547,0,47541,Santi Comesaña,https://media.api-sports.io/football/players/47541.png,90.0,7.2,M,2025-05-10T16:30:00+00:00
+1208804,533,Villarreal,https://media.api-sports.io/football/teams/533.png,547,0,20696,Pape Gueye,https://media.api-sports.io/football/players/20696.png,45.0,7.2,M,2025-05-10T16:30:00+00:00
+1208804,533,Villarreal,https://media.api-sports.io/football/teams/533.png,547,0,3246,Nicolas Pépé,https://media.api-sports.io/football/players/3246.png,90.0,7.3,M,2025-05-10T16:30:00+00:00
+1208804,533,Villarreal,https://media.api-sports.io/football/teams/533.png,547,0,182219,Alejandro Baena,https://media.api-sports.io/football/players/182219.png,90.0,7.6,M,2025-05-10T16:30:00+00:00
+1208804,533,Villarreal,https://media.api-sports.io/football/teams/533.png,547,0,184226,Yéremy Pino,https://media.api-sports.io/football/players/184226.png,66.0,6.9,M,2025-05-10T16:30:00+00:00
+1208804,533,Villarreal,https://media.api-sports.io/football/teams/533.png,547,0,18906,Ayoze Pérez,https://media.api-sports.io/football/players/18906.png,85.0,5.9,F,2025-05-10T16:30:00+00:00
+1208804,533,Villarreal,https://media.api-sports.io/football/teams/533.png,547,0,928,Dani Parejo,https://media.api-sports.io/football/players/928.png,45.0,7.3,M,2025-05-10T16:30:00+00:00
+1208804,533,Villarreal,https://media.api-sports.io/football/teams/533.png,547,0,1707,Gerard Moreno,https://media.api-sports.io/football/players/1707.png,24.0,6.7,F,2025-05-10T16:30:00+00:00
+1208804,533,Villarreal,https://media.api-sports.io/football/teams/533.png,547,0,288112,Willy Kambwala,https://media.api-sports.io/football/players/288112.png,17.0,6.9,D,2025-05-10T16:30:00+00:00
+1208804,533,Villarreal,https://media.api-sports.io/football/teams/533.png,547,0,1702,Alfonso Pedraza,https://media.api-sports.io/football/players/1702.png,16.0,7.3,D,2025-05-10T16:30:00+00:00
+1208804,533,Villarreal,https://media.api-sports.io/football/teams/533.png,547,0,378284,Etta Eyong,https://media.api-sports.io/football/players/378284.png,10.0,7.2,F,2025-05-10T16:30:00+00:00
+1208805,798,Mallorca,https://media.api-sports.io/football/teams/798.png,720,1,61142,Dominik Greif,https://media.api-sports.io/football/players/61142.png,90.0,8.2,G,2025-05-10T16:30:00+00:00
+1208805,798,Mallorca,https://media.api-sports.io/football/teams/798.png,720,1,26302,Pablo Maffeo,https://media.api-sports.io/football/players/26302.png,90.0,7.2,D,2025-05-10T16:30:00+00:00
+1208805,798,Mallorca,https://media.api-sports.io/football/teams/798.png,720,1,46738,Martin Valjent,https://media.api-sports.io/football/players/46738.png,90.0,6.9,D,2025-05-10T16:30:00+00:00
+1208805,798,Mallorca,https://media.api-sports.io/football/teams/798.png,720,1,46733,Antonio Raíllo,https://media.api-sports.io/football/players/46733.png,90.0,6.9,D,2025-05-10T16:30:00+00:00
+1208805,798,Mallorca,https://media.api-sports.io/football/teams/798.png,720,1,64268,Johan Mojica,https://media.api-sports.io/football/players/64268.png,90.0,6.9,D,2025-05-10T16:30:00+00:00
+1208805,798,Mallorca,https://media.api-sports.io/football/teams/798.png,720,1,414,Omar Mascarell,https://media.api-sports.io/football/players/414.png,90.0,7.6,M,2025-05-10T16:30:00+00:00
+1208805,798,Mallorca,https://media.api-sports.io/football/teams/798.png,720,1,190485,Samú Costa,https://media.api-sports.io/football/players/190485.png,90.0,6.9,M,2025-05-10T16:30:00+00:00
+1208805,798,Mallorca,https://media.api-sports.io/football/teams/798.png,720,1,25375,Takuma Asano,https://media.api-sports.io/football/players/25375.png,66.0,7.2,M,2025-05-10T16:30:00+00:00
+1208805,798,Mallorca,https://media.api-sports.io/football/teams/798.png,720,1,46742,Dani Rodríguez,https://media.api-sports.io/football/players/46742.png,76.0,6.2,M,2025-05-10T16:30:00+00:00
+1208805,798,Mallorca,https://media.api-sports.io/football/teams/798.png,720,1,47336,Sergi Darder,https://media.api-sports.io/football/players/47336.png,85.0,7.9,M,2025-05-10T16:30:00+00:00
+1208805,798,Mallorca,https://media.api-sports.io/football/teams/798.png,720,1,50048,Vedat Muriqi,https://media.api-sports.io/football/players/50048.png,66.0,6.9,F,2025-05-10T16:30:00+00:00
+1208805,798,Mallorca,https://media.api-sports.io/football/teams/798.png,720,1,107194,Antonio Sánchez,https://media.api-sports.io/football/players/107194.png,24.0,6.6,M,2025-05-10T16:30:00+00:00
+1208805,798,Mallorca,https://media.api-sports.io/football/teams/798.png,720,1,2001,Cyle Larin,https://media.api-sports.io/football/players/2001.png,24.0,6.7,F,2025-05-10T16:30:00+00:00
+1208805,798,Mallorca,https://media.api-sports.io/football/teams/798.png,720,1,108519,Mateu Morey,https://media.api-sports.io/football/players/108519.png,14.0,6.2,D,2025-05-10T16:30:00+00:00
+1208805,798,Mallorca,https://media.api-sports.io/football/teams/798.png,720,1,920,Toni Lato,https://media.api-sports.io/football/players/920.png,12.0,6.5,D,2025-05-10T16:30:00+00:00
+1208805,720,Valladolid,https://media.api-sports.io/football/teams/720.png,798,0,41320,André Ferreira,https://media.api-sports.io/football/players/41320.png,90.0,6.6,G,2025-05-10T16:30:00+00:00
+1208805,720,Valladolid,https://media.api-sports.io/football/teams/720.png,798,0,47078,Luis Pérez,https://media.api-sports.io/football/players/47078.png,90.0,7.2,D,2025-05-10T16:30:00+00:00
+1208805,720,Valladolid,https://media.api-sports.io/football/teams/720.png,798,0,30770,Antonio Candela,https://media.api-sports.io/football/players/30770.png,58.0,6.3,D,2025-05-10T16:30:00+00:00
+1208805,720,Valladolid,https://media.api-sports.io/football/teams/720.png,798,0,72048,Cenk Özkaçar,https://media.api-sports.io/football/players/72048.png,90.0,6.6,D,2025-05-10T16:30:00+00:00
+1208805,720,Valladolid,https://media.api-sports.io/football/teams/720.png,798,0,431921,Adam Aznou,https://media.api-sports.io/football/players/431921.png,90.0,7.0,D,2025-05-10T16:30:00+00:00
+1208805,720,Valladolid,https://media.api-sports.io/football/teams/720.png,798,0,48372,Eray Cömert,https://media.api-sports.io/football/players/48372.png,82.0,6.5,M,2025-05-10T16:30:00+00:00
+1208805,720,Valladolid,https://media.api-sports.io/football/teams/720.png,798,0,331004,Chuky,https://media.api-sports.io/football/players/331004.png,58.0,7.3,M,2025-05-10T16:30:00+00:00
+1208805,720,Valladolid,https://media.api-sports.io/football/teams/720.png,798,0,28373,Tamás Nikitscher,https://media.api-sports.io/football/players/28373.png,90.0,6.9,M,2025-05-10T16:30:00+00:00
+1208805,720,Valladolid,https://media.api-sports.io/football/teams/720.png,798,0,8587,Selim Amallah,https://media.api-sports.io/football/players/8587.png,74.0,6.9,M,2025-05-10T16:30:00+00:00
+1208805,720,Valladolid,https://media.api-sports.io/football/teams/720.png,798,0,264470,Raúl Moro,https://media.api-sports.io/football/players/264470.png,74.0,7.2,M,2025-05-10T16:30:00+00:00
+1208805,720,Valladolid,https://media.api-sports.io/football/teams/720.png,798,0,162028,Juanmi Latasa,https://media.api-sports.io/football/players/162028.png,90.0,6.9,F,2025-05-10T16:30:00+00:00
+1208805,720,Valladolid,https://media.api-sports.io/football/teams/720.png,798,0,46979,Iván Sánchez,https://media.api-sports.io/football/players/46979.png,32.0,7.2,M,2025-05-10T16:30:00+00:00
+1208805,720,Valladolid,https://media.api-sports.io/football/teams/720.png,798,0,719,Florian Grillitsch,https://media.api-sports.io/football/players/719.png,32.0,6.3,M,2025-05-10T16:30:00+00:00
+1208805,720,Valladolid,https://media.api-sports.io/football/teams/720.png,798,0,2717,Anuar,https://media.api-sports.io/football/players/2717.png,16.0,6.7,M,2025-05-10T16:30:00+00:00
+1208805,720,Valladolid,https://media.api-sports.io/football/teams/720.png,798,0,2459,Darwin Machís,https://media.api-sports.io/football/players/2459.png,16.0,6.7,F,2025-05-10T16:30:00+00:00
+1208805,720,Valladolid,https://media.api-sports.io/football/teams/720.png,798,0,122233,Marcos André,https://media.api-sports.io/football/players/122233.png,8.0,6.5,F,2025-05-10T16:30:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,18835,Vicente Guaita,https://media.api-sports.io/football/players/18835.png,90.0,8.0,G,2025-05-10T14:15:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,162712,Óscar Mingueza,https://media.api-sports.io/football/players/162712.png,76.0,7.5,D,2025-05-10T14:15:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,329722,Yoel Lago,https://media.api-sports.io/football/players/329722.png,90.0,7.0,D,2025-05-10T14:15:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,286559,Carlos Domínguez,https://media.api-sports.io/football/players/286559.png,90.0,7.0,D,2025-05-10T14:15:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,2278,Marcos Alonso,https://media.api-sports.io/football/players/2278.png,51.0,5.9,D,2025-05-10T14:15:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,286796,Damián Rodríguez,https://media.api-sports.io/football/players/286796.png,45.0,7.0,M,2025-05-10T14:15:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,320517,Pablo Durán,https://media.api-sports.io/football/players/320517.png,89.0,6.7,M,2025-05-10T14:15:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,162123,Ilaix Moriba,https://media.api-sports.io/football/players/162123.png,90.0,7.2,M,2025-05-10T14:15:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,269163,Williot Swedberg,https://media.api-sports.io/football/players/269163.png,70.0,6.2,M,2025-05-10T14:15:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,329720,Hugo Álvarez,https://media.api-sports.io/football/players/329720.png,83.0,6.9,M,2025-05-10T14:15:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,47445,Iago Aspas,https://media.api-sports.io/football/players/47445.png,45.0,6.6,F,2025-05-10T14:15:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,384135,Javi Rodríguez,https://media.api-sports.io/football/players/384135.png,45.0,6.6,D,2025-05-10T14:15:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,47435,Fran Beltrán,https://media.api-sports.io/football/players/47435.png,45.0,7.0,M,2025-05-10T14:15:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,21584,Mihailo Ristić,https://media.api-sports.io/football/players/21584.png,20.0,6.2,D,2025-05-10T14:15:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,570,Franco Cervi,https://media.api-sports.io/football/players/570.png,14.0,6.2,M,2025-05-10T14:15:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,47348,Borja Iglesias,https://media.api-sports.io/football/players/47348.png,16.0,7.2,F,2025-05-10T14:15:00+00:00
+1208803,538,Celta Vigo,https://media.api-sports.io/football/teams/538.png,536,1,128985,Iker Losada,https://media.api-sports.io/football/players/128985.png,10.0,6.5,M,2025-05-10T14:15:00+00:00
+1208803,536,Sevilla,https://media.api-sports.io/football/teams/536.png,538,0,19172,Ørjan Nyland,https://media.api-sports.io/football/players/19172.png,90.0,6.2,G,2025-05-10T14:15:00+00:00
+1208803,536,Sevilla,https://media.api-sports.io/football/teams/536.png,538,0,197196,Ramón Martínez,https://media.api-sports.io/football/players/197196.png,90.0,6.7,D,2025-05-10T14:15:00+00:00
+1208803,536,Sevilla,https://media.api-sports.io/football/teams/536.png,538,0,174918,Loïc Badé,https://media.api-sports.io/football/players/174918.png,45.0,6.7,D,2025-05-10T14:15:00+00:00
+1208803,536,Sevilla,https://media.api-sports.io/football/teams/536.png,538,0,1489,Nemanja Gudelj,https://media.api-sports.io/football/players/1489.png,90.0,6.3,D,2025-05-10T14:15:00+00:00
+1208803,536,Sevilla,https://media.api-sports.io/football/teams/536.png,538,0,297311,Kike Salas,https://media.api-sports.io/football/players/297311.png,90.0,7.7,D,2025-05-10T14:15:00+00:00
+1208803,536,Sevilla,https://media.api-sports.io/football/teams/536.png,538,0,182772,Juanlu Sánchez,https://media.api-sports.io/football/players/182772.png,90.0,6.9,M,2025-05-10T14:15:00+00:00
+1208803,536,Sevilla,https://media.api-sports.io/football/teams/536.png,538,0,21004,Lucien Agoumé,https://media.api-sports.io/football/players/21004.png,90.0,6.9,M,2025-05-10T14:15:00+00:00
+1208803,536,Sevilla,https://media.api-sports.io/football/teams/536.png,538,0,48,Saúl Ñíguez,https://media.api-sports.io/football/players/48.png,85.0,6.9,M,2025-05-10T14:15:00+00:00
+1208803,536,Sevilla,https://media.api-sports.io/football/teams/536.png,538,0,47329,Adrià Pedrosa,https://media.api-sports.io/football/players/47329.png,53.0,6.7,M,2025-05-10T14:15:00+00:00
+1208803,536,Sevilla,https://media.api-sports.io/football/teams/536.png,538,0,25458,Dodi Lukebakio,https://media.api-sports.io/football/players/25458.png,90.0,6.7,F,2025-05-10T14:15:00+00:00
+1208803,536,Sevilla,https://media.api-sports.io/football/teams/536.png,538,0,162126,Peque Fernández,https://media.api-sports.io/football/players/162126.png,67.0,6.6,F,2025-05-10T14:15:00+00:00
+1208803,536,Sevilla,https://media.api-sports.io/football/teams/536.png,538,0,185398,Isaac Romero,https://media.api-sports.io/football/players/185398.png,45.0,7.0,F,2025-05-10T14:15:00+00:00
+1208803,536,Sevilla,https://media.api-sports.io/football/teams/536.png,538,0,1650,Suso,https://media.api-sports.io/football/players/1650.png,37.0,7.3,M,2025-05-10T14:15:00+00:00
+1208803,536,Sevilla,https://media.api-sports.io/football/teams/536.png,538,0,486472,Alvaro Garcia-Pascual,https://media.api-sports.io/football/players/486472.png,23.0,6.7,F,2025-05-10T14:15:00+00:00
+1208803,536,Sevilla,https://media.api-sports.io/football/teams/536.png,538,0,39121,Chidera Ejuke,https://media.api-sports.io/football/players/39121.png,14.0,7.0,F,2025-05-10T14:15:00+00:00

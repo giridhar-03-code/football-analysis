@@ -1,0 +1,10 @@
+API_KEY = "d7970f9b700bf3cce8fefc5ed128246b"
+BASE_URL = "https://v3.football.api-sports.io"
+
+LEAGUE_ID = 140  # La Liga
+SEASON = 2024
+
+MAX_REQUESTS_PER_DAY = 90
+REQUEST_SLEEP_SECONDS = 1
+
+DAILY_FIXTURE_LIMIT = 70
